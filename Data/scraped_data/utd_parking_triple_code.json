@@ -1,0 +1,400 @@
+{
+    "history": [
+        {
+            "timestamp": "2025-10-28 11:13:35",
+            "record_count": 21,
+            "data": [
+                {
+                    "garage": "PS1",
+                    "level": "5",
+                    "permit_type": "Gold Permit",
+                    "available_spaces": "0"
+                },
+                {
+                    "garage": "PS1",
+                    "level": "5",
+                    "permit_type": "Orange  Permit",
+                    "available_spaces": "0"
+                },
+                {
+                    "garage": "PS1",
+                    "level": "4",
+                    "permit_type": "Orange Permit",
+                    "available_spaces": "42"
+                },
+                {
+                    "garage": "PS1",
+                    "level": "3",
+                    "permit_type": "Orange Permit",
+                    "available_spaces": "0"
+                },
+                {
+                    "garage": "PS1",
+                    "level": "2",
+                    "permit_type": "Pay-By-Space",
+                    "available_spaces": "0"
+                },
+                {
+                    "garage": "PS1",
+                    "level": "2",
+                    "permit_type": "Purple Permit",
+                    "available_spaces": "4"
+                },
+                {
+                    "garage": "PS1",
+                    "level": "1",
+                    "permit_type": "Pay-By-Space",
+                    "available_spaces": "15"
+                },
+                {
+                    "garage": "PS3",
+                    "level": "5",
+                    "permit_type": "Gold Permit",
+                    "available_spaces": "0"
+                },
+                {
+                    "garage": "PS3",
+                    "level": "4",
+                    "permit_type": "Gold Permit",
+                    "available_spaces": "0"
+                },
+                {
+                    "garage": "PS3",
+                    "level": "3",
+                    "permit_type": "Orange  Permit",
+                    "available_spaces": "0"
+                },
+                {
+                    "garage": "PS3",
+                    "level": "2",
+                    "permit_type": "Orange Permit",
+                    "available_spaces": "0"
+                },
+                {
+                    "garage": "PS3",
+                    "level": "2",
+                    "permit_type": "Purple Permit",
+                    "available_spaces": "20"
+                },
+                {
+                    "garage": "PS3",
+                    "level": "1",
+                    "permit_type": "Purple Permit",
+                    "available_spaces": "0"
+                },
+                {
+                    "garage": "PS3",
+                    "level": "1",
+                    "permit_type": "Pay-By-Space",
+                    "available_spaces": "3"
+                },
+                {
+                    "garage": "PS4",
+                    "level": "5",
+                    "permit_type": "Gold Permit",
+                    "available_spaces": "29"
+                },
+                {
+                    "garage": "PS4",
+                    "level": "4",
+                    "permit_type": "Gold Permit",
+                    "available_spaces": "11"
+                },
+                {
+                    "garage": "PS4",
+                    "level": "3",
+                    "permit_type": "Orange Permit",
+                    "available_spaces": "159"
+                },
+                {
+                    "garage": "PS4",
+                    "level": "2",
+                    "permit_type": "Orange Permit",
+                    "available_spaces": "29"
+                },
+                {
+                    "garage": "PS4",
+                    "level": "2",
+                    "permit_type": "Purple Permit",
+                    "available_spaces": "21"
+                },
+                {
+                    "garage": "PS4",
+                    "level": "1",
+                    "permit_type": "Purple Permit",
+                    "available_spaces": "3"
+                },
+                {
+                    "garage": "PS4",
+                    "level": "1",
+                    "permit_type": "Pay-By-Space",
+                    "available_spaces": "74"
+                }
+            ]
+        },
+        {
+            "timestamp": "2025-10-28 11:13:42",
+            "record_count": 21,
+            "data": [
+                {
+                    "garage": "PS1",
+                    "level": "5",
+                    "permit_type": "Gold Permit",
+                    "available_spaces": "0"
+                },
+                {
+                    "garage": "PS1",
+                    "level": "5",
+                    "permit_type": "Orange  Permit",
+                    "available_spaces": "0"
+                },
+                {
+                    "garage": "PS1",
+                    "level": "4",
+                    "permit_type": "Orange Permit",
+                    "available_spaces": "42"
+                },
+                {
+                    "garage": "PS1",
+                    "level": "3",
+                    "permit_type": "Orange Permit",
+                    "available_spaces": "0"
+                },
+                {
+                    "garage": "PS1",
+                    "level": "2",
+                    "permit_type": "Pay-By-Space",
+                    "available_spaces": "0"
+                },
+                {
+                    "garage": "PS1",
+                    "level": "2",
+                    "permit_type": "Purple Permit",
+                    "available_spaces": "4"
+                },
+                {
+                    "garage": "PS1",
+                    "level": "1",
+                    "permit_type": "Pay-By-Space",
+                    "available_spaces": "15"
+                },
+                {
+                    "garage": "PS3",
+                    "level": "5",
+                    "permit_type": "Gold Permit",
+                    "available_spaces": "0"
+                },
+                {
+                    "garage": "PS3",
+                    "level": "4",
+                    "permit_type": "Gold Permit",
+                    "available_spaces": "0"
+                },
+                {
+                    "garage": "PS3",
+                    "level": "3",
+                    "permit_type": "Orange  Permit",
+                    "available_spaces": "0"
+                },
+                {
+                    "garage": "PS3",
+                    "level": "2",
+                    "permit_type": "Orange Permit",
+                    "available_spaces": "0"
+                },
+                {
+                    "garage": "PS3",
+                    "level": "2",
+                    "permit_type": "Purple Permit",
+                    "available_spaces": "20"
+                },
+                {
+                    "garage": "PS3",
+                    "level": "1",
+                    "permit_type": "Purple Permit",
+                    "available_spaces": "0"
+                },
+                {
+                    "garage": "PS3",
+                    "level": "1",
+                    "permit_type": "Pay-By-Space",
+                    "available_spaces": "3"
+                },
+                {
+                    "garage": "PS4",
+                    "level": "5",
+                    "permit_type": "Gold Permit",
+                    "available_spaces": "29"
+                },
+                {
+                    "garage": "PS4",
+                    "level": "4",
+                    "permit_type": "Gold Permit",
+                    "available_spaces": "13"
+                },
+                {
+                    "garage": "PS4",
+                    "level": "3",
+                    "permit_type": "Orange Permit",
+                    "available_spaces": "156"
+                },
+                {
+                    "garage": "PS4",
+                    "level": "2",
+                    "permit_type": "Orange Permit",
+                    "available_spaces": "26"
+                },
+                {
+                    "garage": "PS4",
+                    "level": "2",
+                    "permit_type": "Purple Permit",
+                    "available_spaces": "21"
+                },
+                {
+                    "garage": "PS4",
+                    "level": "1",
+                    "permit_type": "Purple Permit",
+                    "available_spaces": "3"
+                },
+                {
+                    "garage": "PS4",
+                    "level": "1",
+                    "permit_type": "Pay-By-Space",
+                    "available_spaces": "72"
+                }
+            ]
+        },
+        {
+            "timestamp": "2025-10-28 11:13:58",
+            "record_count": 21,
+            "data": [
+                {
+                    "garage": "PS1",
+                    "level": "5",
+                    "permit_type": "Gold Permit",
+                    "available_spaces": "0"
+                },
+                {
+                    "garage": "PS1",
+                    "level": "5",
+                    "permit_type": "Orange  Permit",
+                    "available_spaces": "0"
+                },
+                {
+                    "garage": "PS1",
+                    "level": "4",
+                    "permit_type": "Orange Permit",
+                    "available_spaces": "41"
+                },
+                {
+                    "garage": "PS1",
+                    "level": "3",
+                    "permit_type": "Orange Permit",
+                    "available_spaces": "0"
+                },
+                {
+                    "garage": "PS1",
+                    "level": "2",
+                    "permit_type": "Pay-By-Space",
+                    "available_spaces": "0"
+                },
+                {
+                    "garage": "PS1",
+                    "level": "2",
+                    "permit_type": "Purple Permit",
+                    "available_spaces": "4"
+                },
+                {
+                    "garage": "PS1",
+                    "level": "1",
+                    "permit_type": "Pay-By-Space",
+                    "available_spaces": "15"
+                },
+                {
+                    "garage": "PS3",
+                    "level": "5",
+                    "permit_type": "Gold Permit",
+                    "available_spaces": "0"
+                },
+                {
+                    "garage": "PS3",
+                    "level": "4",
+                    "permit_type": "Gold Permit",
+                    "available_spaces": "0"
+                },
+                {
+                    "garage": "PS3",
+                    "level": "3",
+                    "permit_type": "Orange  Permit",
+                    "available_spaces": "0"
+                },
+                {
+                    "garage": "PS3",
+                    "level": "2",
+                    "permit_type": "Orange Permit",
+                    "available_spaces": "0"
+                },
+                {
+                    "garage": "PS3",
+                    "level": "2",
+                    "permit_type": "Purple Permit",
+                    "available_spaces": "20"
+                },
+                {
+                    "garage": "PS3",
+                    "level": "1",
+                    "permit_type": "Purple Permit",
+                    "available_spaces": "0"
+                },
+                {
+                    "garage": "PS3",
+                    "level": "1",
+                    "permit_type": "Pay-By-Space",
+                    "available_spaces": "3"
+                },
+                {
+                    "garage": "PS4",
+                    "level": "5",
+                    "permit_type": "Gold Permit",
+                    "available_spaces": "29"
+                },
+                {
+                    "garage": "PS4",
+                    "level": "4",
+                    "permit_type": "Gold Permit",
+                    "available_spaces": "12"
+                },
+                {
+                    "garage": "PS4",
+                    "level": "3",
+                    "permit_type": "Orange Permit",
+                    "available_spaces": "157"
+                },
+                {
+                    "garage": "PS4",
+                    "level": "2",
+                    "permit_type": "Orange Permit",
+                    "available_spaces": "27"
+                },
+                {
+                    "garage": "PS4",
+                    "level": "2",
+                    "permit_type": "Purple Permit",
+                    "available_spaces": "20"
+                },
+                {
+                    "garage": "PS4",
+                    "level": "1",
+                    "permit_type": "Purple Permit",
+                    "available_spaces": "3"
+                },
+                {
+                    "garage": "PS4",
+                    "level": "1",
+                    "permit_type": "Pay-By-Space",
+                    "available_spaces": "72"
+                }
+            ]
+        }
+    ]
+}
