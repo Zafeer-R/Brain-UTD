@@ -1,0 +1,917 @@
+
+==== TUESDAY ====
+
+Andromeda Hall (RHA) — Comet Pi ** — 11:00 a.m. - 12:00 a.m.
+Andromeda Hall (RHA) — Dining Hall West ** — 11:00 a.m. - 3:00 p.m.
+Andromeda Hall (RHA) — The Market — 11:00 a.m. - 12:00 a.m.
+Engineering and Computer Science West (ECSW) — The Market — 10:00 a.m. - 3:00 p.m.
+Naveen Jindal School of Management (JSOM) — The Market — 8:00 a.m. - 9:00 p.m.
+Naveen Jindal School of Management (JSOM) — Tradecraft Coffee & Tea Bar — 11:00 a.m. - 2:00 p.m.
+Parking Structure 3 (PS3) — Einstein Bros Bagels ** — 7:30 a.m. - 4:00 p.m.
+Parking Structure 3 (PS3) — Taco Bell Cantina *** — 9:00 a.m. - 12:00 a.m.
+Sciences Building (SCI) — The Market — 9:00 a.m. - 3:00 p.m.
+Student Union (SU) — Buffalo Wild Wings — 11:00 a.m. - 6:00 p.m.
+Student Union (SU) — Chick-Fil-A — 8:00 a.m. - 6:00 p.m.
+Student Union (SU) — Crave — 11:00 a.m. - 8:00 p.m.
+Student Union (SU) — Firehouse Subs ** — 11:00 a.m. - 3:00 p.m.
+Student Union (SU) — Food Truck Park — 11:00 a.m. - 2:00 p.m.
+Student Union (SU) — Kalachandji’s Express — 11:00 a.m. - 8:00 p.m.
+Student Union (SU) — Panda Express ** — 11:00 a.m. - 6:00 p.m.
+Student Union (SU) — Starbucks *** — 8:00 a.m. - 9:00 p.m.
+Student Union (SU) — Tea Co ** — 10:00 a.m. - 5:00 p.m.
+Student Union (SU) — The Halal Shack ** — 11:00 a.m. - 8:00 p.m.
+Visitor Center and University Bookstore (VCB) — Bookstore Coffee Shop — 8:00 a.m. - 2:00 p.m.
+Andromeda Hall (RHA) — Comet Pi **  [Boost mobile orders available.] — 12:00 a.m. - 1:00 a.m.
+Andromeda Hall (RHA) — Dining Hall West **  [Boost mobile orders available.] — 7:00 a.m. - 10:00 a.m.
+Andromeda Hall (RHA) — The Market — 12:00 a.m. - 1:00 a.m.
+Engineering and Computer Science West (ECSW) — The Market — 10:00 a.m. - 3:00 p.m.
+Naveen Jindal School of Management (JSOM) — The Market — 8:00 a.m. - 9:00 p.m.
+Naveen Jindal School of Management (JSOM) — Tradecraft Coffee & Tea Bar — 11:00 a.m. - 2:00 p.m.
+Parking Structure 3 (PS3) — Einstein Bros Bagels **  [Boost mobile orders available.] — 7:30 a.m. - 4:00 p.m.
+Parking Structure 3 (PS3) — Taco Bell Cantina ***  [Delivery robot orders available.] — 9:00 a.m. - 12:00 a.m.
+Sciences Building (SCI) — The Market — 9:00 a.m. - 3:00 p.m.
+Student Union (SU) — Buffalo Wild Wings — 11:00 a.m. - 6:00 p.m.
+Student Union (SU) — Chick-Fil-A — 8:00 a.m. - 6:00 p.m.
+Student Union (SU) — Crave — 11:00 a.m. - 8:00 p.m.
+Student Union (SU) — Firehouse Subs **  [Boost mobile orders available.] — 11:00 a.m. - 3:00 p.m.
+Student Union (SU) — Food Truck Park — 11:00 a.m. - 2:00 p.m.
+Student Union (SU) — Kalachandji’s Express — 11:00 a.m. - 8:00 p.m.
+Student Union (SU) — Panda Express **  [Boost mobile orders available.] — 11:00 a.m. - 6:00 p.m.
+Student Union (SU) — Starbucks ***  [Delivery robot orders available.] — 8:00 a.m. - 9:00 p.m.
+Student Union (SU) — Tea Co **  [Boost mobile orders available.] — 10:00 a.m. - 5:00 p.m.
+Student Union (SU) — The Halal Shack **  [Boost mobile orders available.] — 11:00 a.m. - 8:00 p.m.
+Visitor Center and University Bookstore (VCB) — Bookstore Coffee Shop — 8:00 a.m. - 2:00 p.m.
+Andromeda Hall (RHA) — Comet Pi **  [Boost mobile orders available.] — 12:00 a.m. - 1:00 a.m.
+Andromeda Hall (RHA) — Dining Hall West **  [Boost mobile orders available.] — 7:00 a.m. - 10:00 a.m.
+Andromeda Hall (RHA) — The Market — 12:00 a.m. - 1:00 a.m.
+Engineering and Computer Science West (ECSW) — The Market — 10:00 a.m. - 3:00 p.m.
+Naveen Jindal School of Management (JSOM) — The Market — 8:00 a.m. - 9:00 p.m.
+Naveen Jindal School of Management (JSOM) — Tradecraft Coffee & Tea Bar — 11:00 a.m. - 2:00 p.m.
+Parking Structure 3 (PS3) — Einstein Bros Bagels **  [Boost mobile orders available.] — 7:30 a.m. - 4:00 p.m.
+Parking Structure 3 (PS3) — Taco Bell Cantina ***  [Delivery robot orders available.] — 9:00 a.m. - 12:00 a.m.
+Sciences Building (SCI) — The Market — 9:00 a.m. - 3:00 p.m.
+Student Union (SU) — Buffalo Wild Wings — 11:00 a.m. - 6:00 p.m.
+Student Union (SU) — Chick-Fil-A — 8:00 a.m. - 6:00 p.m.
+Student Union (SU) — Crave — 11:00 a.m. - 8:00 p.m.
+Student Union (SU) — Firehouse Subs **  [Boost mobile orders available.] — 11:00 a.m. - 3:00 p.m.
+Student Union (SU) — Food Truck Park — 11:00 a.m. - 2:00 p.m.
+Student Union (SU) — Kalachandji’s Express — 11:00 a.m. - 8:00 p.m.
+Student Union (SU) — Panda Express **  [Boost mobile orders available.] — 11:00 a.m. - 6:00 p.m.
+Student Union (SU) — Starbucks ***  [Delivery robot orders available.] — 8:00 a.m. - 9:00 p.m.
+Student Union (SU) — Tea Co **  [Boost mobile orders available.] — 10:00 a.m. - 5:00 p.m.
+Student Union (SU) — The Halal Shack **  [Boost mobile orders available.] — 11:00 a.m. - 8:00 p.m.
+Visitor Center and University Bookstore (VCB) — Bookstore Coffee Shop — 8:00 a.m. - 2:00 p.m.
+Andromeda Hall (RHA) — Comet Pi **  [Boost mobile orders available.] — 12:00 a.m. - 1:00 a.m.
+Andromeda Hall (RHA) — Dining Hall West **  [Boost mobile orders available.] — 7:00 a.m. - 10:00 a.m.
+Andromeda Hall (RHA) — The Market — 12:00 a.m. - 1:00 a.m.
+Engineering and Computer Science West (ECSW) — The Market — 10:00 a.m. - 3:00 p.m.
+Naveen Jindal School of Management (JSOM) — The Market — 8:00 a.m. - 9:00 p.m.
+Naveen Jindal School of Management (JSOM) — Tradecraft Coffee & Tea Bar — 11:00 a.m. - 2:00 p.m.
+Parking Structure 3 (PS3) — Einstein Bros Bagels **  [Boost mobile orders available.] — 7:30 a.m. - 4:00 p.m.
+Parking Structure 3 (PS3) — Taco Bell Cantina ***  [Delivery robot orders available.] — 9:00 a.m. - 12:00 a.m.
+Sciences Building (SCI) — The Market — 9:00 a.m. - 3:00 p.m.
+Student Union (SU) — Buffalo Wild Wings — 11:00 a.m. - 6:00 p.m.
+Student Union (SU) — Chick-Fil-A — 8:00 a.m. - 6:00 p.m.
+Student Union (SU) — Crave — 11:00 a.m. - 8:00 p.m.
+Student Union (SU) — Firehouse Subs **  [Boost mobile orders available.] — 11:00 a.m. - 3:00 p.m.
+Student Union (SU) — Food Truck Park — 11:00 a.m. - 2:00 p.m.
+Student Union (SU) — Kalachandji’s Express — 11:00 a.m. - 8:00 p.m.
+Student Union (SU) — Panda Express **  [Boost mobile orders available.] — 11:00 a.m. - 6:00 p.m.
+Student Union (SU) — Starbucks ***  [Delivery robot orders available.] — 8:00 a.m. - 9:00 p.m.
+Student Union (SU) — Tea Co **  [Boost mobile orders available.] — 10:00 a.m. - 5:00 p.m.
+Student Union (SU) — The Halal Shack **  [Boost mobile orders available.] — 11:00 a.m. - 8:00 p.m.
+Visitor Center and University Bookstore (VCB) — Bookstore Coffee Shop — 8:00 a.m. - 2:00 p.m.
+Andromeda Hall (RHA) — Comet Pi **  [Boost mobile orders available.] — 12:00 a.m. - 1:00 a.m.
+Andromeda Hall (RHA) — Dining Hall West **  [Boost mobile orders available.] — 7:00 a.m. - 10:00 a.m.
+Andromeda Hall (RHA) — The Market — 12:00 a.m. - 1:00 a.m.
+Naveen Jindal School of Management (JSOM) — The Market — 11:00 a.m. - 3:00 p.m.
+Parking Structure 3 (PS3) — Einstein Bros Bagels **  [Boost mobile orders available.] — 7:30 a.m. - 4:00 p.m.
+Parking Structure 3 (PS3) — Taco Bell Cantina ***  [Delivery robot orders available.] — 9:00 a.m. - 12:00 a.m.
+Sciences Building (SCI) — The Market — 9:00 a.m. - 2:00 p.m.
+Student Union (SU) — Buffalo Wild Wings — 11:00 a.m. - 4:00 p.m.
+Student Union (SU) — Chick-Fil-A — 8:00 a.m. - 5:00 p.m.
+Student Union (SU) — Crave — 11:00 a.m. - 5:00 p.m.
+Student Union (SU) — Firehouse Subs **  [Boost mobile orders available.] — 11:00 a.m. - 2:00 p.m.
+Student Union (SU) — Kalachandji’s Express — 11:00 a.m. - 3:00 p.m.
+Student Union (SU) — Panda Express **  [Boost mobile orders available.] — 11:00 a.m. - 3:00 p.m.
+Student Union (SU) — Starbucks ***  [Delivery robot orders available.] — 8:00 a.m. - 7:00 p.m.
+Student Union (SU) — Tea Co **  [Boost mobile orders available.] — 10:00 a.m. - 3:00 p.m.
+Student Union (SU) — The Halal Shack **  [Boost mobile orders available.] — 11:00 a.m. - 3:00 p.m.
+Visitor Center and University Bookstore (VCB) — Bookstore Coffee Shop — 8:00 a.m. - 2:00 p.m.
+Andromeda Hall (RHA) — Comet Pi **  [Boost mobile orders available.] — 3:00 p.m. - 10:00 p.m.
+Andromeda Hall (RHA) — Dining Hall West **  [Boost mobile orders available.] — 10:30 a.m. - 3:00 p.m.
+Andromeda Hall (RHA) — The Market — 3:00 p.m. - 10:00 p.m.
+Andromeda Hall (RHA) — Taco Bell Cantina ***  [Delivery robot orders available.] — 11:00 a.m. - 7:00 p.m.
+Andromeda Hall (RHA) — Chick-Fil-A — 11:00 a.m. - 3:00 p.m.
+Andromeda Hall (RHA) — Starbucks ***  [Delivery robot orders available.] — 10:00 a.m. - 3:00 p.m.
+Andromeda Hall (RHA) — Comet Pi **  [Boost mobile orders available.] — 3:00 p.m. - 10:00 p.m.
+Andromeda Hall (RHA) — Dining Hall West **  [Boost mobile orders available.] — 10:30 a.m. - 3:00 p.m.
+Andromeda Hall (RHA) — The Market — 3:00 p.m. - 10:00 p.m.
+Andromeda Hall (RHA) — Taco Bell Cantina ***  [Delivery robot orders available.] — 11:00 a.m. - 12:00 a.m.
+Andromeda Hall (RHA) — Starbucks ***  [Delivery robot orders available.] — 10:00 a.m. - 3:00 p.m.
+Andromeda Hall (RHA) — Comet Pi **  [Boost mobile orders available.] — 11:00 a.m. - 12:00 a.m.
+Andromeda Hall (RHA) — Dining Hall West **  [Boost mobile orders available.] — 7:00 a.m. - 10:00 a.m.
+Andromeda Hall (RHA) — The Market — 11:00 a.m. - 12:00 a.m.
+Engineering and Computer Science West (ECSW) — The Market — 10:00 a.m. - 3:00 p.m.
+Naveen Jindal School of Management (JSOM) — The Market — 8:00 a.m. - 9:00 p.m.
+Naveen Jindal School of Management (JSOM) — Tradecraft Coffee & Tea Bar — 11:00 a.m. - 2:00 p.m.
+Parking Structure 3 (PS3) — Einstein Bros Bagels **  [Boost mobile orders available.] — 7:30 a.m. - 4:00 p.m.
+Parking Structure 3 (PS3) — Taco Bell Cantina ***  [Delivery robot orders available.] — 9:00 a.m. - 12:00 a.m.
+Sciences Building (SCI) — The Market — 9:00 a.m. - 3:00 p.m.
+Student Union (SU) — Buffalo Wild Wings — 11:00 a.m. - 6:00 p.m.
+Student Union (SU) — Chick-Fil-A — 8:00 a.m. - 6:00 p.m.
+Student Union (SU) — Crave — 11:00 a.m. - 8:00 p.m.
+Student Union (SU) — Firehouse Subs **  [Boost mobile orders available.] — 11:00 a.m. - 3:00 p.m.
+Student Union (SU) — Food Truck Park — 11:00 a.m. - 2:00 p.m.
+Student Union (SU) — Kalachandji’s Express — 11:00 a.m. - 8:00 p.m.
+Student Union (SU) — Panda Express **  [Boost mobile orders available.] — 11:00 a.m. - 6:00 p.m.
+Student Union (SU) — Starbucks ***  [Delivery robot orders available.] — 8:00 a.m. - 9:00 p.m.
+Student Union (SU) — Tea Co **  [Boost mobile orders available.] — 10:00 a.m. - 5:00 p.m.
+Student Union (SU) — The Halal Shack **  [Boost mobile orders available.] — 11:00 a.m. - 8:00 p.m.
+Visitor Center and University Bookstore (VCB) — Bookstore Coffee Shop — 8:00 a.m. - 2:00 p.m.
+
+==== WEDNESDAY ====
+
+Andromeda Hall (RHA) — Comet Pi ** — 11:00 a.m. - 12:00 a.m.
+Andromeda Hall (RHA) — Dining Hall West ** — 11:00 a.m. - 3:00 p.m.
+Andromeda Hall (RHA) — The Market — 11:00 a.m. - 12:00 a.m.
+Engineering and Computer Science West (ECSW) — The Market — 10:00 a.m. - 3:00 p.m.
+Naveen Jindal School of Management (JSOM) — The Market — 8:00 a.m. - 9:00 p.m.
+Naveen Jindal School of Management (JSOM) — Tradecraft Coffee & Tea Bar — 11:00 a.m. - 2:00 p.m.
+Parking Structure 3 (PS3) — Einstein Bros Bagels ** — 7:30 a.m. - 4:00 p.m.
+Parking Structure 3 (PS3) — Taco Bell Cantina *** — 9:00 a.m. - 12:00 a.m.
+Sciences Building (SCI) — The Market — 9:00 a.m. - 3:00 p.m.
+Student Union (SU) — Buffalo Wild Wings — 11:00 a.m. - 6:00 p.m.
+Student Union (SU) — Chick-Fil-A — 8:00 a.m. - 6:00 p.m.
+Student Union (SU) — Crave — 11:00 a.m. - 8:00 p.m.
+Student Union (SU) — Firehouse Subs ** — 11:00 a.m. - 3:00 p.m.
+Student Union (SU) — Food Truck Park — 11:00 a.m. - 2:00 p.m.
+Student Union (SU) — Kalachandji’s Express — 11:00 a.m. - 8:00 p.m.
+Student Union (SU) — Panda Express ** — 11:00 a.m. - 6:00 p.m.
+Student Union (SU) — Starbucks *** — 8:00 a.m. - 9:00 p.m.
+Student Union (SU) — Tea Co ** — 10:00 a.m. - 5:00 p.m.
+Student Union (SU) — The Halal Shack ** — 11:00 a.m. - 8:00 p.m.
+Visitor Center and University Bookstore (VCB) — Bookstore Coffee Shop — 8:00 a.m. - 2:00 p.m.
+Andromeda Hall (RHA) — Comet Pi **  [Boost mobile orders available.] — 12:00 a.m. - 1:00 a.m.
+Andromeda Hall (RHA) — Dining Hall West **  [Boost mobile orders available.] — 7:00 a.m. - 10:00 a.m.
+Andromeda Hall (RHA) — The Market — 12:00 a.m. - 1:00 a.m.
+Engineering and Computer Science West (ECSW) — The Market — 10:00 a.m. - 3:00 p.m.
+Naveen Jindal School of Management (JSOM) — The Market — 8:00 a.m. - 9:00 p.m.
+Naveen Jindal School of Management (JSOM) — Tradecraft Coffee & Tea Bar — 11:00 a.m. - 2:00 p.m.
+Parking Structure 3 (PS3) — Einstein Bros Bagels **  [Boost mobile orders available.] — 7:30 a.m. - 4:00 p.m.
+Parking Structure 3 (PS3) — Taco Bell Cantina ***  [Delivery robot orders available.] — 9:00 a.m. - 12:00 a.m.
+Sciences Building (SCI) — The Market — 9:00 a.m. - 3:00 p.m.
+Student Union (SU) — Buffalo Wild Wings — 11:00 a.m. - 6:00 p.m.
+Student Union (SU) — Chick-Fil-A — 8:00 a.m. - 6:00 p.m.
+Student Union (SU) — Crave — 11:00 a.m. - 8:00 p.m.
+Student Union (SU) — Firehouse Subs **  [Boost mobile orders available.] — 11:00 a.m. - 3:00 p.m.
+Student Union (SU) — Food Truck Park — 11:00 a.m. - 2:00 p.m.
+Student Union (SU) — Kalachandji’s Express — 11:00 a.m. - 8:00 p.m.
+Student Union (SU) — Panda Express **  [Boost mobile orders available.] — 11:00 a.m. - 6:00 p.m.
+Student Union (SU) — Starbucks ***  [Delivery robot orders available.] — 8:00 a.m. - 9:00 p.m.
+Student Union (SU) — Tea Co **  [Boost mobile orders available.] — 10:00 a.m. - 5:00 p.m.
+Student Union (SU) — The Halal Shack **  [Boost mobile orders available.] — 11:00 a.m. - 8:00 p.m.
+Visitor Center and University Bookstore (VCB) — Bookstore Coffee Shop — 8:00 a.m. - 2:00 p.m.
+Andromeda Hall (RHA) — Comet Pi **  [Boost mobile orders available.] — 12:00 a.m. - 1:00 a.m.
+Andromeda Hall (RHA) — Dining Hall West **  [Boost mobile orders available.] — 7:00 a.m. - 10:00 a.m.
+Andromeda Hall (RHA) — The Market — 12:00 a.m. - 1:00 a.m.
+Engineering and Computer Science West (ECSW) — The Market — 10:00 a.m. - 3:00 p.m.
+Naveen Jindal School of Management (JSOM) — The Market — 8:00 a.m. - 9:00 p.m.
+Naveen Jindal School of Management (JSOM) — Tradecraft Coffee & Tea Bar — 11:00 a.m. - 2:00 p.m.
+Parking Structure 3 (PS3) — Einstein Bros Bagels **  [Boost mobile orders available.] — 7:30 a.m. - 4:00 p.m.
+Parking Structure 3 (PS3) — Taco Bell Cantina ***  [Delivery robot orders available.] — 9:00 a.m. - 12:00 a.m.
+Sciences Building (SCI) — The Market — 9:00 a.m. - 3:00 p.m.
+Student Union (SU) — Buffalo Wild Wings — 11:00 a.m. - 6:00 p.m.
+Student Union (SU) — Chick-Fil-A — 8:00 a.m. - 6:00 p.m.
+Student Union (SU) — Crave — 11:00 a.m. - 8:00 p.m.
+Student Union (SU) — Firehouse Subs **  [Boost mobile orders available.] — 11:00 a.m. - 3:00 p.m.
+Student Union (SU) — Food Truck Park — 11:00 a.m. - 2:00 p.m.
+Student Union (SU) — Kalachandji’s Express — 11:00 a.m. - 8:00 p.m.
+Student Union (SU) — Panda Express **  [Boost mobile orders available.] — 11:00 a.m. - 6:00 p.m.
+Student Union (SU) — Starbucks ***  [Delivery robot orders available.] — 8:00 a.m. - 9:00 p.m.
+Student Union (SU) — Tea Co **  [Boost mobile orders available.] — 10:00 a.m. - 5:00 p.m.
+Student Union (SU) — The Halal Shack **  [Boost mobile orders available.] — 11:00 a.m. - 8:00 p.m.
+Visitor Center and University Bookstore (VCB) — Bookstore Coffee Shop — 8:00 a.m. - 2:00 p.m.
+Andromeda Hall (RHA) — Comet Pi **  [Boost mobile orders available.] — 12:00 a.m. - 1:00 a.m.
+Andromeda Hall (RHA) — Dining Hall West **  [Boost mobile orders available.] — 7:00 a.m. - 10:00 a.m.
+Andromeda Hall (RHA) — The Market — 12:00 a.m. - 1:00 a.m.
+Engineering and Computer Science West (ECSW) — The Market — 10:00 a.m. - 3:00 p.m.
+Naveen Jindal School of Management (JSOM) — The Market — 8:00 a.m. - 9:00 p.m.
+Naveen Jindal School of Management (JSOM) — Tradecraft Coffee & Tea Bar — 11:00 a.m. - 2:00 p.m.
+Parking Structure 3 (PS3) — Einstein Bros Bagels **  [Boost mobile orders available.] — 7:30 a.m. - 4:00 p.m.
+Parking Structure 3 (PS3) — Taco Bell Cantina ***  [Delivery robot orders available.] — 9:00 a.m. - 12:00 a.m.
+Sciences Building (SCI) — The Market — 9:00 a.m. - 3:00 p.m.
+Student Union (SU) — Buffalo Wild Wings — 11:00 a.m. - 6:00 p.m.
+Student Union (SU) — Chick-Fil-A — 8:00 a.m. - 6:00 p.m.
+Student Union (SU) — Crave — 11:00 a.m. - 8:00 p.m.
+Student Union (SU) — Firehouse Subs **  [Boost mobile orders available.] — 11:00 a.m. - 3:00 p.m.
+Student Union (SU) — Food Truck Park — 11:00 a.m. - 2:00 p.m.
+Student Union (SU) — Kalachandji’s Express — 11:00 a.m. - 8:00 p.m.
+Student Union (SU) — Panda Express **  [Boost mobile orders available.] — 11:00 a.m. - 6:00 p.m.
+Student Union (SU) — Starbucks ***  [Delivery robot orders available.] — 8:00 a.m. - 9:00 p.m.
+Student Union (SU) — Tea Co **  [Boost mobile orders available.] — 10:00 a.m. - 5:00 p.m.
+Student Union (SU) — The Halal Shack **  [Boost mobile orders available.] — 11:00 a.m. - 8:00 p.m.
+Visitor Center and University Bookstore (VCB) — Bookstore Coffee Shop — 8:00 a.m. - 2:00 p.m.
+Andromeda Hall (RHA) — Comet Pi **  [Boost mobile orders available.] — 12:00 a.m. - 1:00 a.m.
+Andromeda Hall (RHA) — Dining Hall West **  [Boost mobile orders available.] — 7:00 a.m. - 10:00 a.m.
+Andromeda Hall (RHA) — The Market — 12:00 a.m. - 1:00 a.m.
+Naveen Jindal School of Management (JSOM) — The Market — 11:00 a.m. - 3:00 p.m.
+Parking Structure 3 (PS3) — Einstein Bros Bagels **  [Boost mobile orders available.] — 7:30 a.m. - 4:00 p.m.
+Parking Structure 3 (PS3) — Taco Bell Cantina ***  [Delivery robot orders available.] — 9:00 a.m. - 12:00 a.m.
+Sciences Building (SCI) — The Market — 9:00 a.m. - 2:00 p.m.
+Student Union (SU) — Buffalo Wild Wings — 11:00 a.m. - 4:00 p.m.
+Student Union (SU) — Chick-Fil-A — 8:00 a.m. - 5:00 p.m.
+Student Union (SU) — Crave — 11:00 a.m. - 5:00 p.m.
+Student Union (SU) — Firehouse Subs **  [Boost mobile orders available.] — 11:00 a.m. - 2:00 p.m.
+Student Union (SU) — Kalachandji’s Express — 11:00 a.m. - 3:00 p.m.
+Student Union (SU) — Panda Express **  [Boost mobile orders available.] — 11:00 a.m. - 3:00 p.m.
+Student Union (SU) — Starbucks ***  [Delivery robot orders available.] — 8:00 a.m. - 7:00 p.m.
+Student Union (SU) — Tea Co **  [Boost mobile orders available.] — 10:00 a.m. - 3:00 p.m.
+Student Union (SU) — The Halal Shack **  [Boost mobile orders available.] — 11:00 a.m. - 3:00 p.m.
+Visitor Center and University Bookstore (VCB) — Bookstore Coffee Shop — 8:00 a.m. - 2:00 p.m.
+Andromeda Hall (RHA) — Comet Pi **  [Boost mobile orders available.] — 3:00 p.m. - 10:00 p.m.
+Andromeda Hall (RHA) — Dining Hall West **  [Boost mobile orders available.] — 10:30 a.m. - 3:00 p.m.
+Andromeda Hall (RHA) — The Market — 3:00 p.m. - 10:00 p.m.
+Andromeda Hall (RHA) — Taco Bell Cantina ***  [Delivery robot orders available.] — 11:00 a.m. - 7:00 p.m.
+Andromeda Hall (RHA) — Chick-Fil-A — 11:00 a.m. - 3:00 p.m.
+Andromeda Hall (RHA) — Starbucks ***  [Delivery robot orders available.] — 10:00 a.m. - 3:00 p.m.
+Andromeda Hall (RHA) — Comet Pi **  [Boost mobile orders available.] — 3:00 p.m. - 10:00 p.m.
+Andromeda Hall (RHA) — Dining Hall West **  [Boost mobile orders available.] — 10:30 a.m. - 3:00 p.m.
+Andromeda Hall (RHA) — The Market — 3:00 p.m. - 10:00 p.m.
+Andromeda Hall (RHA) — Taco Bell Cantina ***  [Delivery robot orders available.] — 11:00 a.m. - 12:00 a.m.
+Andromeda Hall (RHA) — Starbucks ***  [Delivery robot orders available.] — 10:00 a.m. - 3:00 p.m.
+Andromeda Hall (RHA) — Comet Pi **  [Boost mobile orders available.] — 11:00 a.m. - 12:00 a.m.
+Andromeda Hall (RHA) — Dining Hall West **  [Boost mobile orders available.] — 7:00 a.m. - 10:00 a.m.
+Andromeda Hall (RHA) — The Market — 11:00 a.m. - 12:00 a.m.
+Engineering and Computer Science West (ECSW) — The Market — 10:00 a.m. - 3:00 p.m.
+Naveen Jindal School of Management (JSOM) — The Market — 8:00 a.m. - 9:00 p.m.
+Naveen Jindal School of Management (JSOM) — Tradecraft Coffee & Tea Bar — 11:00 a.m. - 2:00 p.m.
+Parking Structure 3 (PS3) — Einstein Bros Bagels **  [Boost mobile orders available.] — 7:30 a.m. - 4:00 p.m.
+Parking Structure 3 (PS3) — Taco Bell Cantina ***  [Delivery robot orders available.] — 9:00 a.m. - 12:00 a.m.
+Sciences Building (SCI) — The Market — 9:00 a.m. - 3:00 p.m.
+Student Union (SU) — Buffalo Wild Wings — 11:00 a.m. - 6:00 p.m.
+Student Union (SU) — Chick-Fil-A — 8:00 a.m. - 6:00 p.m.
+Student Union (SU) — Crave — 11:00 a.m. - 8:00 p.m.
+Student Union (SU) — Firehouse Subs **  [Boost mobile orders available.] — 11:00 a.m. - 3:00 p.m.
+Student Union (SU) — Food Truck Park — 11:00 a.m. - 2:00 p.m.
+Student Union (SU) — Kalachandji’s Express — 11:00 a.m. - 8:00 p.m.
+Student Union (SU) — Panda Express **  [Boost mobile orders available.] — 11:00 a.m. - 6:00 p.m.
+Student Union (SU) — Starbucks ***  [Delivery robot orders available.] — 8:00 a.m. - 9:00 p.m.
+Student Union (SU) — Tea Co **  [Boost mobile orders available.] — 10:00 a.m. - 5:00 p.m.
+Student Union (SU) — The Halal Shack **  [Boost mobile orders available.] — 11:00 a.m. - 8:00 p.m.
+Visitor Center and University Bookstore (VCB) — Bookstore Coffee Shop — 8:00 a.m. - 2:00 p.m.
+
+==== THURSDAY ====
+
+Andromeda Hall (RHA) — Comet Pi ** — 11:00 a.m. - 12:00 a.m.
+Andromeda Hall (RHA) — Dining Hall West ** — 11:00 a.m. - 3:00 p.m.
+Andromeda Hall (RHA) — The Market — 11:00 a.m. - 12:00 a.m.
+Engineering and Computer Science West (ECSW) — The Market — 10:00 a.m. - 3:00 p.m.
+Naveen Jindal School of Management (JSOM) — The Market — 8:00 a.m. - 9:00 p.m.
+Naveen Jindal School of Management (JSOM) — Tradecraft Coffee & Tea Bar — 11:00 a.m. - 2:00 p.m.
+Parking Structure 3 (PS3) — Einstein Bros Bagels ** — 7:30 a.m. - 4:00 p.m.
+Parking Structure 3 (PS3) — Taco Bell Cantina *** — 9:00 a.m. - 12:00 a.m.
+Sciences Building (SCI) — The Market — 9:00 a.m. - 3:00 p.m.
+Student Union (SU) — Buffalo Wild Wings — 11:00 a.m. - 6:00 p.m.
+Student Union (SU) — Chick-Fil-A — 8:00 a.m. - 6:00 p.m.
+Student Union (SU) — Crave — 11:00 a.m. - 8:00 p.m.
+Student Union (SU) — Firehouse Subs ** — 11:00 a.m. - 3:00 p.m.
+Student Union (SU) — Food Truck Park — 11:00 a.m. - 2:00 p.m.
+Student Union (SU) — Kalachandji’s Express — 11:00 a.m. - 8:00 p.m.
+Student Union (SU) — Panda Express ** — 11:00 a.m. - 6:00 p.m.
+Student Union (SU) — Starbucks *** — 8:00 a.m. - 9:00 p.m.
+Student Union (SU) — Tea Co ** — 10:00 a.m. - 5:00 p.m.
+Student Union (SU) — The Halal Shack ** — 11:00 a.m. - 8:00 p.m.
+Visitor Center and University Bookstore (VCB) — Bookstore Coffee Shop — 8:00 a.m. - 2:00 p.m.
+Andromeda Hall (RHA) — Comet Pi **  [Boost mobile orders available.] — 12:00 a.m. - 1:00 a.m.
+Andromeda Hall (RHA) — Dining Hall West **  [Boost mobile orders available.] — 7:00 a.m. - 10:00 a.m.
+Andromeda Hall (RHA) — The Market — 12:00 a.m. - 1:00 a.m.
+Engineering and Computer Science West (ECSW) — The Market — 10:00 a.m. - 3:00 p.m.
+Naveen Jindal School of Management (JSOM) — The Market — 8:00 a.m. - 9:00 p.m.
+Naveen Jindal School of Management (JSOM) — Tradecraft Coffee & Tea Bar — 11:00 a.m. - 2:00 p.m.
+Parking Structure 3 (PS3) — Einstein Bros Bagels **  [Boost mobile orders available.] — 7:30 a.m. - 4:00 p.m.
+Parking Structure 3 (PS3) — Taco Bell Cantina ***  [Delivery robot orders available.] — 9:00 a.m. - 12:00 a.m.
+Sciences Building (SCI) — The Market — 9:00 a.m. - 3:00 p.m.
+Student Union (SU) — Buffalo Wild Wings — 11:00 a.m. - 6:00 p.m.
+Student Union (SU) — Chick-Fil-A — 8:00 a.m. - 6:00 p.m.
+Student Union (SU) — Crave — 11:00 a.m. - 8:00 p.m.
+Student Union (SU) — Firehouse Subs **  [Boost mobile orders available.] — 11:00 a.m. - 3:00 p.m.
+Student Union (SU) — Food Truck Park — 11:00 a.m. - 2:00 p.m.
+Student Union (SU) — Kalachandji’s Express — 11:00 a.m. - 8:00 p.m.
+Student Union (SU) — Panda Express **  [Boost mobile orders available.] — 11:00 a.m. - 6:00 p.m.
+Student Union (SU) — Starbucks ***  [Delivery robot orders available.] — 8:00 a.m. - 9:00 p.m.
+Student Union (SU) — Tea Co **  [Boost mobile orders available.] — 10:00 a.m. - 5:00 p.m.
+Student Union (SU) — The Halal Shack **  [Boost mobile orders available.] — 11:00 a.m. - 8:00 p.m.
+Visitor Center and University Bookstore (VCB) — Bookstore Coffee Shop — 8:00 a.m. - 2:00 p.m.
+Andromeda Hall (RHA) — Comet Pi **  [Boost mobile orders available.] — 12:00 a.m. - 1:00 a.m.
+Andromeda Hall (RHA) — Dining Hall West **  [Boost mobile orders available.] — 7:00 a.m. - 10:00 a.m.
+Andromeda Hall (RHA) — The Market — 12:00 a.m. - 1:00 a.m.
+Engineering and Computer Science West (ECSW) — The Market — 10:00 a.m. - 3:00 p.m.
+Naveen Jindal School of Management (JSOM) — The Market — 8:00 a.m. - 9:00 p.m.
+Naveen Jindal School of Management (JSOM) — Tradecraft Coffee & Tea Bar — 11:00 a.m. - 2:00 p.m.
+Parking Structure 3 (PS3) — Einstein Bros Bagels **  [Boost mobile orders available.] — 7:30 a.m. - 4:00 p.m.
+Parking Structure 3 (PS3) — Taco Bell Cantina ***  [Delivery robot orders available.] — 9:00 a.m. - 12:00 a.m.
+Sciences Building (SCI) — The Market — 9:00 a.m. - 3:00 p.m.
+Student Union (SU) — Buffalo Wild Wings — 11:00 a.m. - 6:00 p.m.
+Student Union (SU) — Chick-Fil-A — 8:00 a.m. - 6:00 p.m.
+Student Union (SU) — Crave — 11:00 a.m. - 8:00 p.m.
+Student Union (SU) — Firehouse Subs **  [Boost mobile orders available.] — 11:00 a.m. - 3:00 p.m.
+Student Union (SU) — Food Truck Park — 11:00 a.m. - 2:00 p.m.
+Student Union (SU) — Kalachandji’s Express — 11:00 a.m. - 8:00 p.m.
+Student Union (SU) — Panda Express **  [Boost mobile orders available.] — 11:00 a.m. - 6:00 p.m.
+Student Union (SU) — Starbucks ***  [Delivery robot orders available.] — 8:00 a.m. - 9:00 p.m.
+Student Union (SU) — Tea Co **  [Boost mobile orders available.] — 10:00 a.m. - 5:00 p.m.
+Student Union (SU) — The Halal Shack **  [Boost mobile orders available.] — 11:00 a.m. - 8:00 p.m.
+Visitor Center and University Bookstore (VCB) — Bookstore Coffee Shop — 8:00 a.m. - 2:00 p.m.
+Andromeda Hall (RHA) — Comet Pi **  [Boost mobile orders available.] — 12:00 a.m. - 1:00 a.m.
+Andromeda Hall (RHA) — Dining Hall West **  [Boost mobile orders available.] — 7:00 a.m. - 10:00 a.m.
+Andromeda Hall (RHA) — The Market — 12:00 a.m. - 1:00 a.m.
+Engineering and Computer Science West (ECSW) — The Market — 10:00 a.m. - 3:00 p.m.
+Naveen Jindal School of Management (JSOM) — The Market — 8:00 a.m. - 9:00 p.m.
+Naveen Jindal School of Management (JSOM) — Tradecraft Coffee & Tea Bar — 11:00 a.m. - 2:00 p.m.
+Parking Structure 3 (PS3) — Einstein Bros Bagels **  [Boost mobile orders available.] — 7:30 a.m. - 4:00 p.m.
+Parking Structure 3 (PS3) — Taco Bell Cantina ***  [Delivery robot orders available.] — 9:00 a.m. - 12:00 a.m.
+Sciences Building (SCI) — The Market — 9:00 a.m. - 3:00 p.m.
+Student Union (SU) — Buffalo Wild Wings — 11:00 a.m. - 6:00 p.m.
+Student Union (SU) — Chick-Fil-A — 8:00 a.m. - 6:00 p.m.
+Student Union (SU) — Crave — 11:00 a.m. - 8:00 p.m.
+Student Union (SU) — Firehouse Subs **  [Boost mobile orders available.] — 11:00 a.m. - 3:00 p.m.
+Student Union (SU) — Food Truck Park — 11:00 a.m. - 2:00 p.m.
+Student Union (SU) — Kalachandji’s Express — 11:00 a.m. - 8:00 p.m.
+Student Union (SU) — Panda Express **  [Boost mobile orders available.] — 11:00 a.m. - 6:00 p.m.
+Student Union (SU) — Starbucks ***  [Delivery robot orders available.] — 8:00 a.m. - 9:00 p.m.
+Student Union (SU) — Tea Co **  [Boost mobile orders available.] — 10:00 a.m. - 5:00 p.m.
+Student Union (SU) — The Halal Shack **  [Boost mobile orders available.] — 11:00 a.m. - 8:00 p.m.
+Visitor Center and University Bookstore (VCB) — Bookstore Coffee Shop — 8:00 a.m. - 2:00 p.m.
+Andromeda Hall (RHA) — Comet Pi **  [Boost mobile orders available.] — 12:00 a.m. - 1:00 a.m.
+Andromeda Hall (RHA) — Dining Hall West **  [Boost mobile orders available.] — 7:00 a.m. - 10:00 a.m.
+Andromeda Hall (RHA) — The Market — 12:00 a.m. - 1:00 a.m.
+Naveen Jindal School of Management (JSOM) — The Market — 11:00 a.m. - 3:00 p.m.
+Parking Structure 3 (PS3) — Einstein Bros Bagels **  [Boost mobile orders available.] — 7:30 a.m. - 4:00 p.m.
+Parking Structure 3 (PS3) — Taco Bell Cantina ***  [Delivery robot orders available.] — 9:00 a.m. - 12:00 a.m.
+Sciences Building (SCI) — The Market — 9:00 a.m. - 2:00 p.m.
+Student Union (SU) — Buffalo Wild Wings — 11:00 a.m. - 4:00 p.m.
+Student Union (SU) — Chick-Fil-A — 8:00 a.m. - 5:00 p.m.
+Student Union (SU) — Crave — 11:00 a.m. - 5:00 p.m.
+Student Union (SU) — Firehouse Subs **  [Boost mobile orders available.] — 11:00 a.m. - 2:00 p.m.
+Student Union (SU) — Kalachandji’s Express — 11:00 a.m. - 3:00 p.m.
+Student Union (SU) — Panda Express **  [Boost mobile orders available.] — 11:00 a.m. - 3:00 p.m.
+Student Union (SU) — Starbucks ***  [Delivery robot orders available.] — 8:00 a.m. - 7:00 p.m.
+Student Union (SU) — Tea Co **  [Boost mobile orders available.] — 10:00 a.m. - 3:00 p.m.
+Student Union (SU) — The Halal Shack **  [Boost mobile orders available.] — 11:00 a.m. - 3:00 p.m.
+Visitor Center and University Bookstore (VCB) — Bookstore Coffee Shop — 8:00 a.m. - 2:00 p.m.
+Andromeda Hall (RHA) — Comet Pi **  [Boost mobile orders available.] — 3:00 p.m. - 10:00 p.m.
+Andromeda Hall (RHA) — Dining Hall West **  [Boost mobile orders available.] — 10:30 a.m. - 3:00 p.m.
+Andromeda Hall (RHA) — The Market — 3:00 p.m. - 10:00 p.m.
+Andromeda Hall (RHA) — Taco Bell Cantina ***  [Delivery robot orders available.] — 11:00 a.m. - 7:00 p.m.
+Andromeda Hall (RHA) — Chick-Fil-A — 11:00 a.m. - 3:00 p.m.
+Andromeda Hall (RHA) — Starbucks ***  [Delivery robot orders available.] — 10:00 a.m. - 3:00 p.m.
+Andromeda Hall (RHA) — Comet Pi **  [Boost mobile orders available.] — 3:00 p.m. - 10:00 p.m.
+Andromeda Hall (RHA) — Dining Hall West **  [Boost mobile orders available.] — 10:30 a.m. - 3:00 p.m.
+Andromeda Hall (RHA) — The Market — 3:00 p.m. - 10:00 p.m.
+Andromeda Hall (RHA) — Taco Bell Cantina ***  [Delivery robot orders available.] — 11:00 a.m. - 12:00 a.m.
+Andromeda Hall (RHA) — Starbucks ***  [Delivery robot orders available.] — 10:00 a.m. - 3:00 p.m.
+Andromeda Hall (RHA) — Comet Pi **  [Boost mobile orders available.] — 11:00 a.m. - 12:00 a.m.
+Andromeda Hall (RHA) — Dining Hall West **  [Boost mobile orders available.] — 7:00 a.m. - 10:00 a.m.
+Andromeda Hall (RHA) — The Market — 11:00 a.m. - 12:00 a.m.
+Engineering and Computer Science West (ECSW) — The Market — 10:00 a.m. - 3:00 p.m.
+Naveen Jindal School of Management (JSOM) — The Market — 8:00 a.m. - 9:00 p.m.
+Naveen Jindal School of Management (JSOM) — Tradecraft Coffee & Tea Bar — 11:00 a.m. - 2:00 p.m.
+Parking Structure 3 (PS3) — Einstein Bros Bagels **  [Boost mobile orders available.] — 7:30 a.m. - 4:00 p.m.
+Parking Structure 3 (PS3) — Taco Bell Cantina ***  [Delivery robot orders available.] — 9:00 a.m. - 12:00 a.m.
+Sciences Building (SCI) — The Market — 9:00 a.m. - 3:00 p.m.
+Student Union (SU) — Buffalo Wild Wings — 11:00 a.m. - 6:00 p.m.
+Student Union (SU) — Chick-Fil-A — 8:00 a.m. - 6:00 p.m.
+Student Union (SU) — Crave — 11:00 a.m. - 8:00 p.m.
+Student Union (SU) — Firehouse Subs **  [Boost mobile orders available.] — 11:00 a.m. - 3:00 p.m.
+Student Union (SU) — Food Truck Park — 11:00 a.m. - 2:00 p.m.
+Student Union (SU) — Kalachandji’s Express — 11:00 a.m. - 8:00 p.m.
+Student Union (SU) — Panda Express **  [Boost mobile orders available.] — 11:00 a.m. - 6:00 p.m.
+Student Union (SU) — Starbucks ***  [Delivery robot orders available.] — 8:00 a.m. - 9:00 p.m.
+Student Union (SU) — Tea Co **  [Boost mobile orders available.] — 10:00 a.m. - 5:00 p.m.
+Student Union (SU) — The Halal Shack **  [Boost mobile orders available.] — 11:00 a.m. - 8:00 p.m.
+Visitor Center and University Bookstore (VCB) — Bookstore Coffee Shop — 8:00 a.m. - 2:00 p.m.
+
+==== FRIDAY ====
+
+Andromeda Hall (RHA) — Comet Pi ** — 11:00 a.m. - 12:00 a.m.
+Andromeda Hall (RHA) — Dining Hall West ** — 11:00 a.m. - 3:00 p.m.
+Andromeda Hall (RHA) — The Market — 11:00 a.m. - 12:00 a.m.
+Engineering and Computer Science West (ECSW) — The Market — 10:00 a.m. - 3:00 p.m.
+Naveen Jindal School of Management (JSOM) — The Market — 8:00 a.m. - 9:00 p.m.
+Naveen Jindal School of Management (JSOM) — Tradecraft Coffee & Tea Bar — 11:00 a.m. - 2:00 p.m.
+Parking Structure 3 (PS3) — Einstein Bros Bagels ** — 7:30 a.m. - 4:00 p.m.
+Parking Structure 3 (PS3) — Taco Bell Cantina *** — 9:00 a.m. - 12:00 a.m.
+Sciences Building (SCI) — The Market — 9:00 a.m. - 3:00 p.m.
+Student Union (SU) — Buffalo Wild Wings — 11:00 a.m. - 6:00 p.m.
+Student Union (SU) — Chick-Fil-A — 8:00 a.m. - 6:00 p.m.
+Student Union (SU) — Crave — 11:00 a.m. - 8:00 p.m.
+Student Union (SU) — Firehouse Subs ** — 11:00 a.m. - 3:00 p.m.
+Student Union (SU) — Food Truck Park — 11:00 a.m. - 2:00 p.m.
+Student Union (SU) — Kalachandji’s Express — 11:00 a.m. - 8:00 p.m.
+Student Union (SU) — Panda Express ** — 11:00 a.m. - 6:00 p.m.
+Student Union (SU) — Starbucks *** — 8:00 a.m. - 9:00 p.m.
+Student Union (SU) — Tea Co ** — 10:00 a.m. - 5:00 p.m.
+Student Union (SU) — The Halal Shack ** — 11:00 a.m. - 8:00 p.m.
+Visitor Center and University Bookstore (VCB) — Bookstore Coffee Shop — 8:00 a.m. - 2:00 p.m.
+Andromeda Hall (RHA) — Comet Pi **  [Boost mobile orders available.] — 12:00 a.m. - 1:00 a.m.
+Andromeda Hall (RHA) — Dining Hall West **  [Boost mobile orders available.] — 7:00 a.m. - 10:00 a.m.
+Andromeda Hall (RHA) — The Market — 12:00 a.m. - 1:00 a.m.
+Engineering and Computer Science West (ECSW) — The Market — 10:00 a.m. - 3:00 p.m.
+Naveen Jindal School of Management (JSOM) — The Market — 8:00 a.m. - 9:00 p.m.
+Naveen Jindal School of Management (JSOM) — Tradecraft Coffee & Tea Bar — 11:00 a.m. - 2:00 p.m.
+Parking Structure 3 (PS3) — Einstein Bros Bagels **  [Boost mobile orders available.] — 7:30 a.m. - 4:00 p.m.
+Parking Structure 3 (PS3) — Taco Bell Cantina ***  [Delivery robot orders available.] — 9:00 a.m. - 12:00 a.m.
+Sciences Building (SCI) — The Market — 9:00 a.m. - 3:00 p.m.
+Student Union (SU) — Buffalo Wild Wings — 11:00 a.m. - 6:00 p.m.
+Student Union (SU) — Chick-Fil-A — 8:00 a.m. - 6:00 p.m.
+Student Union (SU) — Crave — 11:00 a.m. - 8:00 p.m.
+Student Union (SU) — Firehouse Subs **  [Boost mobile orders available.] — 11:00 a.m. - 3:00 p.m.
+Student Union (SU) — Food Truck Park — 11:00 a.m. - 2:00 p.m.
+Student Union (SU) — Kalachandji’s Express — 11:00 a.m. - 8:00 p.m.
+Student Union (SU) — Panda Express **  [Boost mobile orders available.] — 11:00 a.m. - 6:00 p.m.
+Student Union (SU) — Starbucks ***  [Delivery robot orders available.] — 8:00 a.m. - 9:00 p.m.
+Student Union (SU) — Tea Co **  [Boost mobile orders available.] — 10:00 a.m. - 5:00 p.m.
+Student Union (SU) — The Halal Shack **  [Boost mobile orders available.] — 11:00 a.m. - 8:00 p.m.
+Visitor Center and University Bookstore (VCB) — Bookstore Coffee Shop — 8:00 a.m. - 2:00 p.m.
+Andromeda Hall (RHA) — Comet Pi **  [Boost mobile orders available.] — 12:00 a.m. - 1:00 a.m.
+Andromeda Hall (RHA) — Dining Hall West **  [Boost mobile orders available.] — 7:00 a.m. - 10:00 a.m.
+Andromeda Hall (RHA) — The Market — 12:00 a.m. - 1:00 a.m.
+Engineering and Computer Science West (ECSW) — The Market — 10:00 a.m. - 3:00 p.m.
+Naveen Jindal School of Management (JSOM) — The Market — 8:00 a.m. - 9:00 p.m.
+Naveen Jindal School of Management (JSOM) — Tradecraft Coffee & Tea Bar — 11:00 a.m. - 2:00 p.m.
+Parking Structure 3 (PS3) — Einstein Bros Bagels **  [Boost mobile orders available.] — 7:30 a.m. - 4:00 p.m.
+Parking Structure 3 (PS3) — Taco Bell Cantina ***  [Delivery robot orders available.] — 9:00 a.m. - 12:00 a.m.
+Sciences Building (SCI) — The Market — 9:00 a.m. - 3:00 p.m.
+Student Union (SU) — Buffalo Wild Wings — 11:00 a.m. - 6:00 p.m.
+Student Union (SU) — Chick-Fil-A — 8:00 a.m. - 6:00 p.m.
+Student Union (SU) — Crave — 11:00 a.m. - 8:00 p.m.
+Student Union (SU) — Firehouse Subs **  [Boost mobile orders available.] — 11:00 a.m. - 3:00 p.m.
+Student Union (SU) — Food Truck Park — 11:00 a.m. - 2:00 p.m.
+Student Union (SU) — Kalachandji’s Express — 11:00 a.m. - 8:00 p.m.
+Student Union (SU) — Panda Express **  [Boost mobile orders available.] — 11:00 a.m. - 6:00 p.m.
+Student Union (SU) — Starbucks ***  [Delivery robot orders available.] — 8:00 a.m. - 9:00 p.m.
+Student Union (SU) — Tea Co **  [Boost mobile orders available.] — 10:00 a.m. - 5:00 p.m.
+Student Union (SU) — The Halal Shack **  [Boost mobile orders available.] — 11:00 a.m. - 8:00 p.m.
+Visitor Center and University Bookstore (VCB) — Bookstore Coffee Shop — 8:00 a.m. - 2:00 p.m.
+Andromeda Hall (RHA) — Comet Pi **  [Boost mobile orders available.] — 12:00 a.m. - 1:00 a.m.
+Andromeda Hall (RHA) — Dining Hall West **  [Boost mobile orders available.] — 7:00 a.m. - 10:00 a.m.
+Andromeda Hall (RHA) — The Market — 12:00 a.m. - 1:00 a.m.
+Engineering and Computer Science West (ECSW) — The Market — 10:00 a.m. - 3:00 p.m.
+Naveen Jindal School of Management (JSOM) — The Market — 8:00 a.m. - 9:00 p.m.
+Naveen Jindal School of Management (JSOM) — Tradecraft Coffee & Tea Bar — 11:00 a.m. - 2:00 p.m.
+Parking Structure 3 (PS3) — Einstein Bros Bagels **  [Boost mobile orders available.] — 7:30 a.m. - 4:00 p.m.
+Parking Structure 3 (PS3) — Taco Bell Cantina ***  [Delivery robot orders available.] — 9:00 a.m. - 12:00 a.m.
+Sciences Building (SCI) — The Market — 9:00 a.m. - 3:00 p.m.
+Student Union (SU) — Buffalo Wild Wings — 11:00 a.m. - 6:00 p.m.
+Student Union (SU) — Chick-Fil-A — 8:00 a.m. - 6:00 p.m.
+Student Union (SU) — Crave — 11:00 a.m. - 8:00 p.m.
+Student Union (SU) — Firehouse Subs **  [Boost mobile orders available.] — 11:00 a.m. - 3:00 p.m.
+Student Union (SU) — Food Truck Park — 11:00 a.m. - 2:00 p.m.
+Student Union (SU) — Kalachandji’s Express — 11:00 a.m. - 8:00 p.m.
+Student Union (SU) — Panda Express **  [Boost mobile orders available.] — 11:00 a.m. - 6:00 p.m.
+Student Union (SU) — Starbucks ***  [Delivery robot orders available.] — 8:00 a.m. - 9:00 p.m.
+Student Union (SU) — Tea Co **  [Boost mobile orders available.] — 10:00 a.m. - 5:00 p.m.
+Student Union (SU) — The Halal Shack **  [Boost mobile orders available.] — 11:00 a.m. - 8:00 p.m.
+Visitor Center and University Bookstore (VCB) — Bookstore Coffee Shop — 8:00 a.m. - 2:00 p.m.
+Andromeda Hall (RHA) — Comet Pi **  [Boost mobile orders available.] — 12:00 a.m. - 1:00 a.m.
+Andromeda Hall (RHA) — Dining Hall West **  [Boost mobile orders available.] — 7:00 a.m. - 10:00 a.m.
+Andromeda Hall (RHA) — The Market — 12:00 a.m. - 1:00 a.m.
+Naveen Jindal School of Management (JSOM) — The Market — 11:00 a.m. - 3:00 p.m.
+Parking Structure 3 (PS3) — Einstein Bros Bagels **  [Boost mobile orders available.] — 7:30 a.m. - 4:00 p.m.
+Parking Structure 3 (PS3) — Taco Bell Cantina ***  [Delivery robot orders available.] — 9:00 a.m. - 12:00 a.m.
+Sciences Building (SCI) — The Market — 9:00 a.m. - 2:00 p.m.
+Student Union (SU) — Buffalo Wild Wings — 11:00 a.m. - 4:00 p.m.
+Student Union (SU) — Chick-Fil-A — 8:00 a.m. - 5:00 p.m.
+Student Union (SU) — Crave — 11:00 a.m. - 5:00 p.m.
+Student Union (SU) — Firehouse Subs **  [Boost mobile orders available.] — 11:00 a.m. - 2:00 p.m.
+Student Union (SU) — Kalachandji’s Express — 11:00 a.m. - 3:00 p.m.
+Student Union (SU) — Panda Express **  [Boost mobile orders available.] — 11:00 a.m. - 3:00 p.m.
+Student Union (SU) — Starbucks ***  [Delivery robot orders available.] — 8:00 a.m. - 7:00 p.m.
+Student Union (SU) — Tea Co **  [Boost mobile orders available.] — 10:00 a.m. - 3:00 p.m.
+Student Union (SU) — The Halal Shack **  [Boost mobile orders available.] — 11:00 a.m. - 3:00 p.m.
+Visitor Center and University Bookstore (VCB) — Bookstore Coffee Shop — 8:00 a.m. - 2:00 p.m.
+Andromeda Hall (RHA) — Comet Pi **  [Boost mobile orders available.] — 3:00 p.m. - 10:00 p.m.
+Andromeda Hall (RHA) — Dining Hall West **  [Boost mobile orders available.] — 10:30 a.m. - 3:00 p.m.
+Andromeda Hall (RHA) — The Market — 3:00 p.m. - 10:00 p.m.
+Andromeda Hall (RHA) — Taco Bell Cantina ***  [Delivery robot orders available.] — 11:00 a.m. - 7:00 p.m.
+Andromeda Hall (RHA) — Chick-Fil-A — 11:00 a.m. - 3:00 p.m.
+Andromeda Hall (RHA) — Starbucks ***  [Delivery robot orders available.] — 10:00 a.m. - 3:00 p.m.
+Andromeda Hall (RHA) — Comet Pi **  [Boost mobile orders available.] — 3:00 p.m. - 10:00 p.m.
+Andromeda Hall (RHA) — Dining Hall West **  [Boost mobile orders available.] — 10:30 a.m. - 3:00 p.m.
+Andromeda Hall (RHA) — The Market — 3:00 p.m. - 10:00 p.m.
+Andromeda Hall (RHA) — Taco Bell Cantina ***  [Delivery robot orders available.] — 11:00 a.m. - 12:00 a.m.
+Andromeda Hall (RHA) — Starbucks ***  [Delivery robot orders available.] — 10:00 a.m. - 3:00 p.m.
+Andromeda Hall (RHA) — Comet Pi **  [Boost mobile orders available.] — 11:00 a.m. - 12:00 a.m.
+Andromeda Hall (RHA) — Dining Hall West **  [Boost mobile orders available.] — 7:00 a.m. - 10:00 a.m.
+Andromeda Hall (RHA) — The Market — 11:00 a.m. - 12:00 a.m.
+Engineering and Computer Science West (ECSW) — The Market — 10:00 a.m. - 3:00 p.m.
+Naveen Jindal School of Management (JSOM) — The Market — 8:00 a.m. - 9:00 p.m.
+Naveen Jindal School of Management (JSOM) — Tradecraft Coffee & Tea Bar — 11:00 a.m. - 2:00 p.m.
+Parking Structure 3 (PS3) — Einstein Bros Bagels **  [Boost mobile orders available.] — 7:30 a.m. - 4:00 p.m.
+Parking Structure 3 (PS3) — Taco Bell Cantina ***  [Delivery robot orders available.] — 9:00 a.m. - 12:00 a.m.
+Sciences Building (SCI) — The Market — 9:00 a.m. - 3:00 p.m.
+Student Union (SU) — Buffalo Wild Wings — 11:00 a.m. - 6:00 p.m.
+Student Union (SU) — Chick-Fil-A — 8:00 a.m. - 6:00 p.m.
+Student Union (SU) — Crave — 11:00 a.m. - 8:00 p.m.
+Student Union (SU) — Firehouse Subs **  [Boost mobile orders available.] — 11:00 a.m. - 3:00 p.m.
+Student Union (SU) — Food Truck Park — 11:00 a.m. - 2:00 p.m.
+Student Union (SU) — Kalachandji’s Express — 11:00 a.m. - 8:00 p.m.
+Student Union (SU) — Panda Express **  [Boost mobile orders available.] — 11:00 a.m. - 6:00 p.m.
+Student Union (SU) — Starbucks ***  [Delivery robot orders available.] — 8:00 a.m. - 9:00 p.m.
+Student Union (SU) — Tea Co **  [Boost mobile orders available.] — 10:00 a.m. - 5:00 p.m.
+Student Union (SU) — The Halal Shack **  [Boost mobile orders available.] — 11:00 a.m. - 8:00 p.m.
+Visitor Center and University Bookstore (VCB) — Bookstore Coffee Shop — 8:00 a.m. - 2:00 p.m.
+
+==== SATURDAY ====
+
+Andromeda Hall (RHA) — Comet Pi ** — 11:00 a.m. - 12:00 a.m.
+Andromeda Hall (RHA) — Dining Hall West ** — 11:00 a.m. - 3:00 p.m.
+Andromeda Hall (RHA) — The Market — 11:00 a.m. - 12:00 a.m.
+Engineering and Computer Science West (ECSW) — The Market — 10:00 a.m. - 3:00 p.m.
+Naveen Jindal School of Management (JSOM) — The Market — 8:00 a.m. - 9:00 p.m.
+Naveen Jindal School of Management (JSOM) — Tradecraft Coffee & Tea Bar — 11:00 a.m. - 2:00 p.m.
+Parking Structure 3 (PS3) — Einstein Bros Bagels ** — 7:30 a.m. - 4:00 p.m.
+Parking Structure 3 (PS3) — Taco Bell Cantina *** — 9:00 a.m. - 12:00 a.m.
+Sciences Building (SCI) — The Market — 9:00 a.m. - 3:00 p.m.
+Student Union (SU) — Buffalo Wild Wings — 11:00 a.m. - 6:00 p.m.
+Student Union (SU) — Chick-Fil-A — 8:00 a.m. - 6:00 p.m.
+Student Union (SU) — Crave — 11:00 a.m. - 8:00 p.m.
+Student Union (SU) — Firehouse Subs ** — 11:00 a.m. - 3:00 p.m.
+Student Union (SU) — Food Truck Park — 11:00 a.m. - 2:00 p.m.
+Student Union (SU) — Kalachandji’s Express — 11:00 a.m. - 8:00 p.m.
+Student Union (SU) — Panda Express ** — 11:00 a.m. - 6:00 p.m.
+Student Union (SU) — Starbucks *** — 8:00 a.m. - 9:00 p.m.
+Student Union (SU) — Tea Co ** — 10:00 a.m. - 5:00 p.m.
+Student Union (SU) — The Halal Shack ** — 11:00 a.m. - 8:00 p.m.
+Visitor Center and University Bookstore (VCB) — Bookstore Coffee Shop — 8:00 a.m. - 2:00 p.m.
+Andromeda Hall (RHA) — Comet Pi **  [Boost mobile orders available.] — 12:00 a.m. - 1:00 a.m.
+Andromeda Hall (RHA) — Dining Hall West **  [Boost mobile orders available.] — 7:00 a.m. - 10:00 a.m.
+Andromeda Hall (RHA) — The Market — 12:00 a.m. - 1:00 a.m.
+Engineering and Computer Science West (ECSW) — The Market — 10:00 a.m. - 3:00 p.m.
+Naveen Jindal School of Management (JSOM) — The Market — 8:00 a.m. - 9:00 p.m.
+Naveen Jindal School of Management (JSOM) — Tradecraft Coffee & Tea Bar — 11:00 a.m. - 2:00 p.m.
+Parking Structure 3 (PS3) — Einstein Bros Bagels **  [Boost mobile orders available.] — 7:30 a.m. - 4:00 p.m.
+Parking Structure 3 (PS3) — Taco Bell Cantina ***  [Delivery robot orders available.] — 9:00 a.m. - 12:00 a.m.
+Sciences Building (SCI) — The Market — 9:00 a.m. - 3:00 p.m.
+Student Union (SU) — Buffalo Wild Wings — 11:00 a.m. - 6:00 p.m.
+Student Union (SU) — Chick-Fil-A — 8:00 a.m. - 6:00 p.m.
+Student Union (SU) — Crave — 11:00 a.m. - 8:00 p.m.
+Student Union (SU) — Firehouse Subs **  [Boost mobile orders available.] — 11:00 a.m. - 3:00 p.m.
+Student Union (SU) — Food Truck Park — 11:00 a.m. - 2:00 p.m.
+Student Union (SU) — Kalachandji’s Express — 11:00 a.m. - 8:00 p.m.
+Student Union (SU) — Panda Express **  [Boost mobile orders available.] — 11:00 a.m. - 6:00 p.m.
+Student Union (SU) — Starbucks ***  [Delivery robot orders available.] — 8:00 a.m. - 9:00 p.m.
+Student Union (SU) — Tea Co **  [Boost mobile orders available.] — 10:00 a.m. - 5:00 p.m.
+Student Union (SU) — The Halal Shack **  [Boost mobile orders available.] — 11:00 a.m. - 8:00 p.m.
+Visitor Center and University Bookstore (VCB) — Bookstore Coffee Shop — 8:00 a.m. - 2:00 p.m.
+Andromeda Hall (RHA) — Comet Pi **  [Boost mobile orders available.] — 12:00 a.m. - 1:00 a.m.
+Andromeda Hall (RHA) — Dining Hall West **  [Boost mobile orders available.] — 7:00 a.m. - 10:00 a.m.
+Andromeda Hall (RHA) — The Market — 12:00 a.m. - 1:00 a.m.
+Engineering and Computer Science West (ECSW) — The Market — 10:00 a.m. - 3:00 p.m.
+Naveen Jindal School of Management (JSOM) — The Market — 8:00 a.m. - 9:00 p.m.
+Naveen Jindal School of Management (JSOM) — Tradecraft Coffee & Tea Bar — 11:00 a.m. - 2:00 p.m.
+Parking Structure 3 (PS3) — Einstein Bros Bagels **  [Boost mobile orders available.] — 7:30 a.m. - 4:00 p.m.
+Parking Structure 3 (PS3) — Taco Bell Cantina ***  [Delivery robot orders available.] — 9:00 a.m. - 12:00 a.m.
+Sciences Building (SCI) — The Market — 9:00 a.m. - 3:00 p.m.
+Student Union (SU) — Buffalo Wild Wings — 11:00 a.m. - 6:00 p.m.
+Student Union (SU) — Chick-Fil-A — 8:00 a.m. - 6:00 p.m.
+Student Union (SU) — Crave — 11:00 a.m. - 8:00 p.m.
+Student Union (SU) — Firehouse Subs **  [Boost mobile orders available.] — 11:00 a.m. - 3:00 p.m.
+Student Union (SU) — Food Truck Park — 11:00 a.m. - 2:00 p.m.
+Student Union (SU) — Kalachandji’s Express — 11:00 a.m. - 8:00 p.m.
+Student Union (SU) — Panda Express **  [Boost mobile orders available.] — 11:00 a.m. - 6:00 p.m.
+Student Union (SU) — Starbucks ***  [Delivery robot orders available.] — 8:00 a.m. - 9:00 p.m.
+Student Union (SU) — Tea Co **  [Boost mobile orders available.] — 10:00 a.m. - 5:00 p.m.
+Student Union (SU) — The Halal Shack **  [Boost mobile orders available.] — 11:00 a.m. - 8:00 p.m.
+Visitor Center and University Bookstore (VCB) — Bookstore Coffee Shop — 8:00 a.m. - 2:00 p.m.
+Andromeda Hall (RHA) — Comet Pi **  [Boost mobile orders available.] — 12:00 a.m. - 1:00 a.m.
+Andromeda Hall (RHA) — Dining Hall West **  [Boost mobile orders available.] — 7:00 a.m. - 10:00 a.m.
+Andromeda Hall (RHA) — The Market — 12:00 a.m. - 1:00 a.m.
+Engineering and Computer Science West (ECSW) — The Market — 10:00 a.m. - 3:00 p.m.
+Naveen Jindal School of Management (JSOM) — The Market — 8:00 a.m. - 9:00 p.m.
+Naveen Jindal School of Management (JSOM) — Tradecraft Coffee & Tea Bar — 11:00 a.m. - 2:00 p.m.
+Parking Structure 3 (PS3) — Einstein Bros Bagels **  [Boost mobile orders available.] — 7:30 a.m. - 4:00 p.m.
+Parking Structure 3 (PS3) — Taco Bell Cantina ***  [Delivery robot orders available.] — 9:00 a.m. - 12:00 a.m.
+Sciences Building (SCI) — The Market — 9:00 a.m. - 3:00 p.m.
+Student Union (SU) — Buffalo Wild Wings — 11:00 a.m. - 6:00 p.m.
+Student Union (SU) — Chick-Fil-A — 8:00 a.m. - 6:00 p.m.
+Student Union (SU) — Crave — 11:00 a.m. - 8:00 p.m.
+Student Union (SU) — Firehouse Subs **  [Boost mobile orders available.] — 11:00 a.m. - 3:00 p.m.
+Student Union (SU) — Food Truck Park — 11:00 a.m. - 2:00 p.m.
+Student Union (SU) — Kalachandji’s Express — 11:00 a.m. - 8:00 p.m.
+Student Union (SU) — Panda Express **  [Boost mobile orders available.] — 11:00 a.m. - 6:00 p.m.
+Student Union (SU) — Starbucks ***  [Delivery robot orders available.] — 8:00 a.m. - 9:00 p.m.
+Student Union (SU) — Tea Co **  [Boost mobile orders available.] — 10:00 a.m. - 5:00 p.m.
+Student Union (SU) — The Halal Shack **  [Boost mobile orders available.] — 11:00 a.m. - 8:00 p.m.
+Visitor Center and University Bookstore (VCB) — Bookstore Coffee Shop — 8:00 a.m. - 2:00 p.m.
+Andromeda Hall (RHA) — Comet Pi **  [Boost mobile orders available.] — 12:00 a.m. - 1:00 a.m.
+Andromeda Hall (RHA) — Dining Hall West **  [Boost mobile orders available.] — 7:00 a.m. - 10:00 a.m.
+Andromeda Hall (RHA) — The Market — 12:00 a.m. - 1:00 a.m.
+Naveen Jindal School of Management (JSOM) — The Market — 11:00 a.m. - 3:00 p.m.
+Parking Structure 3 (PS3) — Einstein Bros Bagels **  [Boost mobile orders available.] — 7:30 a.m. - 4:00 p.m.
+Parking Structure 3 (PS3) — Taco Bell Cantina ***  [Delivery robot orders available.] — 9:00 a.m. - 12:00 a.m.
+Sciences Building (SCI) — The Market — 9:00 a.m. - 2:00 p.m.
+Student Union (SU) — Buffalo Wild Wings — 11:00 a.m. - 4:00 p.m.
+Student Union (SU) — Chick-Fil-A — 8:00 a.m. - 5:00 p.m.
+Student Union (SU) — Crave — 11:00 a.m. - 5:00 p.m.
+Student Union (SU) — Firehouse Subs **  [Boost mobile orders available.] — 11:00 a.m. - 2:00 p.m.
+Student Union (SU) — Kalachandji’s Express — 11:00 a.m. - 3:00 p.m.
+Student Union (SU) — Panda Express **  [Boost mobile orders available.] — 11:00 a.m. - 3:00 p.m.
+Student Union (SU) — Starbucks ***  [Delivery robot orders available.] — 8:00 a.m. - 7:00 p.m.
+Student Union (SU) — Tea Co **  [Boost mobile orders available.] — 10:00 a.m. - 3:00 p.m.
+Student Union (SU) — The Halal Shack **  [Boost mobile orders available.] — 11:00 a.m. - 3:00 p.m.
+Visitor Center and University Bookstore (VCB) — Bookstore Coffee Shop — 8:00 a.m. - 2:00 p.m.
+Andromeda Hall (RHA) — Comet Pi **  [Boost mobile orders available.] — 3:00 p.m. - 10:00 p.m.
+Andromeda Hall (RHA) — Dining Hall West **  [Boost mobile orders available.] — 10:30 a.m. - 3:00 p.m.
+Andromeda Hall (RHA) — The Market — 3:00 p.m. - 10:00 p.m.
+Andromeda Hall (RHA) — Taco Bell Cantina ***  [Delivery robot orders available.] — 11:00 a.m. - 7:00 p.m.
+Andromeda Hall (RHA) — Chick-Fil-A — 11:00 a.m. - 3:00 p.m.
+Andromeda Hall (RHA) — Starbucks ***  [Delivery robot orders available.] — 10:00 a.m. - 3:00 p.m.
+Andromeda Hall (RHA) — Comet Pi **  [Boost mobile orders available.] — 3:00 p.m. - 10:00 p.m.
+Andromeda Hall (RHA) — Dining Hall West **  [Boost mobile orders available.] — 10:30 a.m. - 3:00 p.m.
+Andromeda Hall (RHA) — The Market — 3:00 p.m. - 10:00 p.m.
+Andromeda Hall (RHA) — Taco Bell Cantina ***  [Delivery robot orders available.] — 11:00 a.m. - 12:00 a.m.
+Andromeda Hall (RHA) — Starbucks ***  [Delivery robot orders available.] — 10:00 a.m. - 3:00 p.m.
+Andromeda Hall (RHA) — Comet Pi **  [Boost mobile orders available.] — 11:00 a.m. - 12:00 a.m.
+Andromeda Hall (RHA) — Dining Hall West **  [Boost mobile orders available.] — 7:00 a.m. - 10:00 a.m.
+Andromeda Hall (RHA) — The Market — 11:00 a.m. - 12:00 a.m.
+Engineering and Computer Science West (ECSW) — The Market — 10:00 a.m. - 3:00 p.m.
+Naveen Jindal School of Management (JSOM) — The Market — 8:00 a.m. - 9:00 p.m.
+Naveen Jindal School of Management (JSOM) — Tradecraft Coffee & Tea Bar — 11:00 a.m. - 2:00 p.m.
+Parking Structure 3 (PS3) — Einstein Bros Bagels **  [Boost mobile orders available.] — 7:30 a.m. - 4:00 p.m.
+Parking Structure 3 (PS3) — Taco Bell Cantina ***  [Delivery robot orders available.] — 9:00 a.m. - 12:00 a.m.
+Sciences Building (SCI) — The Market — 9:00 a.m. - 3:00 p.m.
+Student Union (SU) — Buffalo Wild Wings — 11:00 a.m. - 6:00 p.m.
+Student Union (SU) — Chick-Fil-A — 8:00 a.m. - 6:00 p.m.
+Student Union (SU) — Crave — 11:00 a.m. - 8:00 p.m.
+Student Union (SU) — Firehouse Subs **  [Boost mobile orders available.] — 11:00 a.m. - 3:00 p.m.
+Student Union (SU) — Food Truck Park — 11:00 a.m. - 2:00 p.m.
+Student Union (SU) — Kalachandji’s Express — 11:00 a.m. - 8:00 p.m.
+Student Union (SU) — Panda Express **  [Boost mobile orders available.] — 11:00 a.m. - 6:00 p.m.
+Student Union (SU) — Starbucks ***  [Delivery robot orders available.] — 8:00 a.m. - 9:00 p.m.
+Student Union (SU) — Tea Co **  [Boost mobile orders available.] — 10:00 a.m. - 5:00 p.m.
+Student Union (SU) — The Halal Shack **  [Boost mobile orders available.] — 11:00 a.m. - 8:00 p.m.
+Visitor Center and University Bookstore (VCB) — Bookstore Coffee Shop — 8:00 a.m. - 2:00 p.m.
+
+==== SUNDAY ====
+
+Andromeda Hall (RHA) — Comet Pi ** — 11:00 a.m. - 12:00 a.m.
+Andromeda Hall (RHA) — Dining Hall West ** — 11:00 a.m. - 3:00 p.m.
+Andromeda Hall (RHA) — The Market — 11:00 a.m. - 12:00 a.m.
+Engineering and Computer Science West (ECSW) — The Market — 10:00 a.m. - 3:00 p.m.
+Naveen Jindal School of Management (JSOM) — The Market — 8:00 a.m. - 9:00 p.m.
+Naveen Jindal School of Management (JSOM) — Tradecraft Coffee & Tea Bar — 11:00 a.m. - 2:00 p.m.
+Parking Structure 3 (PS3) — Einstein Bros Bagels ** — 7:30 a.m. - 4:00 p.m.
+Parking Structure 3 (PS3) — Taco Bell Cantina *** — 9:00 a.m. - 12:00 a.m.
+Sciences Building (SCI) — The Market — 9:00 a.m. - 3:00 p.m.
+Student Union (SU) — Buffalo Wild Wings — 11:00 a.m. - 6:00 p.m.
+Student Union (SU) — Chick-Fil-A — 8:00 a.m. - 6:00 p.m.
+Student Union (SU) — Crave — 11:00 a.m. - 8:00 p.m.
+Student Union (SU) — Firehouse Subs ** — 11:00 a.m. - 3:00 p.m.
+Student Union (SU) — Food Truck Park — 11:00 a.m. - 2:00 p.m.
+Student Union (SU) — Kalachandji’s Express — 11:00 a.m. - 8:00 p.m.
+Student Union (SU) — Panda Express ** — 11:00 a.m. - 6:00 p.m.
+Student Union (SU) — Starbucks *** — 8:00 a.m. - 9:00 p.m.
+Student Union (SU) — Tea Co ** — 10:00 a.m. - 5:00 p.m.
+Student Union (SU) — The Halal Shack ** — 11:00 a.m. - 8:00 p.m.
+Visitor Center and University Bookstore (VCB) — Bookstore Coffee Shop — 8:00 a.m. - 2:00 p.m.
+Andromeda Hall (RHA) — Comet Pi **  [Boost mobile orders available.] — 12:00 a.m. - 1:00 a.m.
+Andromeda Hall (RHA) — Dining Hall West **  [Boost mobile orders available.] — 7:00 a.m. - 10:00 a.m.
+Andromeda Hall (RHA) — The Market — 12:00 a.m. - 1:00 a.m.
+Engineering and Computer Science West (ECSW) — The Market — 10:00 a.m. - 3:00 p.m.
+Naveen Jindal School of Management (JSOM) — The Market — 8:00 a.m. - 9:00 p.m.
+Naveen Jindal School of Management (JSOM) — Tradecraft Coffee & Tea Bar — 11:00 a.m. - 2:00 p.m.
+Parking Structure 3 (PS3) — Einstein Bros Bagels **  [Boost mobile orders available.] — 7:30 a.m. - 4:00 p.m.
+Parking Structure 3 (PS3) — Taco Bell Cantina ***  [Delivery robot orders available.] — 9:00 a.m. - 12:00 a.m.
+Sciences Building (SCI) — The Market — 9:00 a.m. - 3:00 p.m.
+Student Union (SU) — Buffalo Wild Wings — 11:00 a.m. - 6:00 p.m.
+Student Union (SU) — Chick-Fil-A — 8:00 a.m. - 6:00 p.m.
+Student Union (SU) — Crave — 11:00 a.m. - 8:00 p.m.
+Student Union (SU) — Firehouse Subs **  [Boost mobile orders available.] — 11:00 a.m. - 3:00 p.m.
+Student Union (SU) — Food Truck Park — 11:00 a.m. - 2:00 p.m.
+Student Union (SU) — Kalachandji’s Express — 11:00 a.m. - 8:00 p.m.
+Student Union (SU) — Panda Express **  [Boost mobile orders available.] — 11:00 a.m. - 6:00 p.m.
+Student Union (SU) — Starbucks ***  [Delivery robot orders available.] — 8:00 a.m. - 9:00 p.m.
+Student Union (SU) — Tea Co **  [Boost mobile orders available.] — 10:00 a.m. - 5:00 p.m.
+Student Union (SU) — The Halal Shack **  [Boost mobile orders available.] — 11:00 a.m. - 8:00 p.m.
+Visitor Center and University Bookstore (VCB) — Bookstore Coffee Shop — 8:00 a.m. - 2:00 p.m.
+Andromeda Hall (RHA) — Comet Pi **  [Boost mobile orders available.] — 12:00 a.m. - 1:00 a.m.
+Andromeda Hall (RHA) — Dining Hall West **  [Boost mobile orders available.] — 7:00 a.m. - 10:00 a.m.
+Andromeda Hall (RHA) — The Market — 12:00 a.m. - 1:00 a.m.
+Engineering and Computer Science West (ECSW) — The Market — 10:00 a.m. - 3:00 p.m.
+Naveen Jindal School of Management (JSOM) — The Market — 8:00 a.m. - 9:00 p.m.
+Naveen Jindal School of Management (JSOM) — Tradecraft Coffee & Tea Bar — 11:00 a.m. - 2:00 p.m.
+Parking Structure 3 (PS3) — Einstein Bros Bagels **  [Boost mobile orders available.] — 7:30 a.m. - 4:00 p.m.
+Parking Structure 3 (PS3) — Taco Bell Cantina ***  [Delivery robot orders available.] — 9:00 a.m. - 12:00 a.m.
+Sciences Building (SCI) — The Market — 9:00 a.m. - 3:00 p.m.
+Student Union (SU) — Buffalo Wild Wings — 11:00 a.m. - 6:00 p.m.
+Student Union (SU) — Chick-Fil-A — 8:00 a.m. - 6:00 p.m.
+Student Union (SU) — Crave — 11:00 a.m. - 8:00 p.m.
+Student Union (SU) — Firehouse Subs **  [Boost mobile orders available.] — 11:00 a.m. - 3:00 p.m.
+Student Union (SU) — Food Truck Park — 11:00 a.m. - 2:00 p.m.
+Student Union (SU) — Kalachandji’s Express — 11:00 a.m. - 8:00 p.m.
+Student Union (SU) — Panda Express **  [Boost mobile orders available.] — 11:00 a.m. - 6:00 p.m.
+Student Union (SU) — Starbucks ***  [Delivery robot orders available.] — 8:00 a.m. - 9:00 p.m.
+Student Union (SU) — Tea Co **  [Boost mobile orders available.] — 10:00 a.m. - 5:00 p.m.
+Student Union (SU) — The Halal Shack **  [Boost mobile orders available.] — 11:00 a.m. - 8:00 p.m.
+Visitor Center and University Bookstore (VCB) — Bookstore Coffee Shop — 8:00 a.m. - 2:00 p.m.
+Andromeda Hall (RHA) — Comet Pi **  [Boost mobile orders available.] — 12:00 a.m. - 1:00 a.m.
+Andromeda Hall (RHA) — Dining Hall West **  [Boost mobile orders available.] — 7:00 a.m. - 10:00 a.m.
+Andromeda Hall (RHA) — The Market — 12:00 a.m. - 1:00 a.m.
+Engineering and Computer Science West (ECSW) — The Market — 10:00 a.m. - 3:00 p.m.
+Naveen Jindal School of Management (JSOM) — The Market — 8:00 a.m. - 9:00 p.m.
+Naveen Jindal School of Management (JSOM) — Tradecraft Coffee & Tea Bar — 11:00 a.m. - 2:00 p.m.
+Parking Structure 3 (PS3) — Einstein Bros Bagels **  [Boost mobile orders available.] — 7:30 a.m. - 4:00 p.m.
+Parking Structure 3 (PS3) — Taco Bell Cantina ***  [Delivery robot orders available.] — 9:00 a.m. - 12:00 a.m.
+Sciences Building (SCI) — The Market — 9:00 a.m. - 3:00 p.m.
+Student Union (SU) — Buffalo Wild Wings — 11:00 a.m. - 6:00 p.m.
+Student Union (SU) — Chick-Fil-A — 8:00 a.m. - 6:00 p.m.
+Student Union (SU) — Crave — 11:00 a.m. - 8:00 p.m.
+Student Union (SU) — Firehouse Subs **  [Boost mobile orders available.] — 11:00 a.m. - 3:00 p.m.
+Student Union (SU) — Food Truck Park — 11:00 a.m. - 2:00 p.m.
+Student Union (SU) — Kalachandji’s Express — 11:00 a.m. - 8:00 p.m.
+Student Union (SU) — Panda Express **  [Boost mobile orders available.] — 11:00 a.m. - 6:00 p.m.
+Student Union (SU) — Starbucks ***  [Delivery robot orders available.] — 8:00 a.m. - 9:00 p.m.
+Student Union (SU) — Tea Co **  [Boost mobile orders available.] — 10:00 a.m. - 5:00 p.m.
+Student Union (SU) — The Halal Shack **  [Boost mobile orders available.] — 11:00 a.m. - 8:00 p.m.
+Visitor Center and University Bookstore (VCB) — Bookstore Coffee Shop — 8:00 a.m. - 2:00 p.m.
+Andromeda Hall (RHA) — Comet Pi **  [Boost mobile orders available.] — 12:00 a.m. - 1:00 a.m.
+Andromeda Hall (RHA) — Dining Hall West **  [Boost mobile orders available.] — 7:00 a.m. - 10:00 a.m.
+Andromeda Hall (RHA) — The Market — 12:00 a.m. - 1:00 a.m.
+Naveen Jindal School of Management (JSOM) — The Market — 11:00 a.m. - 3:00 p.m.
+Parking Structure 3 (PS3) — Einstein Bros Bagels **  [Boost mobile orders available.] — 7:30 a.m. - 4:00 p.m.
+Parking Structure 3 (PS3) — Taco Bell Cantina ***  [Delivery robot orders available.] — 9:00 a.m. - 12:00 a.m.
+Sciences Building (SCI) — The Market — 9:00 a.m. - 2:00 p.m.
+Student Union (SU) — Buffalo Wild Wings — 11:00 a.m. - 4:00 p.m.
+Student Union (SU) — Chick-Fil-A — 8:00 a.m. - 5:00 p.m.
+Student Union (SU) — Crave — 11:00 a.m. - 5:00 p.m.
+Student Union (SU) — Firehouse Subs **  [Boost mobile orders available.] — 11:00 a.m. - 2:00 p.m.
+Student Union (SU) — Kalachandji’s Express — 11:00 a.m. - 3:00 p.m.
+Student Union (SU) — Panda Express **  [Boost mobile orders available.] — 11:00 a.m. - 3:00 p.m.
+Student Union (SU) — Starbucks ***  [Delivery robot orders available.] — 8:00 a.m. - 7:00 p.m.
+Student Union (SU) — Tea Co **  [Boost mobile orders available.] — 10:00 a.m. - 3:00 p.m.
+Student Union (SU) — The Halal Shack **  [Boost mobile orders available.] — 11:00 a.m. - 3:00 p.m.
+Visitor Center and University Bookstore (VCB) — Bookstore Coffee Shop — 8:00 a.m. - 2:00 p.m.
+Andromeda Hall (RHA) — Comet Pi **  [Boost mobile orders available.] — 3:00 p.m. - 10:00 p.m.
+Andromeda Hall (RHA) — Dining Hall West **  [Boost mobile orders available.] — 10:30 a.m. - 3:00 p.m.
+Andromeda Hall (RHA) — The Market — 3:00 p.m. - 10:00 p.m.
+Andromeda Hall (RHA) — Taco Bell Cantina ***  [Delivery robot orders available.] — 11:00 a.m. - 7:00 p.m.
+Andromeda Hall (RHA) — Chick-Fil-A — 11:00 a.m. - 3:00 p.m.
+Andromeda Hall (RHA) — Starbucks ***  [Delivery robot orders available.] — 10:00 a.m. - 3:00 p.m.
+Andromeda Hall (RHA) — Comet Pi **  [Boost mobile orders available.] — 3:00 p.m. - 10:00 p.m.
+Andromeda Hall (RHA) — Dining Hall West **  [Boost mobile orders available.] — 10:30 a.m. - 3:00 p.m.
+Andromeda Hall (RHA) — The Market — 3:00 p.m. - 10:00 p.m.
+Andromeda Hall (RHA) — Taco Bell Cantina ***  [Delivery robot orders available.] — 11:00 a.m. - 12:00 a.m.
+Andromeda Hall (RHA) — Starbucks ***  [Delivery robot orders available.] — 10:00 a.m. - 3:00 p.m.
+Andromeda Hall (RHA) — Comet Pi **  [Boost mobile orders available.] — 11:00 a.m. - 12:00 a.m.
+Andromeda Hall (RHA) — Dining Hall West **  [Boost mobile orders available.] — 7:00 a.m. - 10:00 a.m.
+Andromeda Hall (RHA) — The Market — 11:00 a.m. - 12:00 a.m.
+Engineering and Computer Science West (ECSW) — The Market — 10:00 a.m. - 3:00 p.m.
+Naveen Jindal School of Management (JSOM) — The Market — 8:00 a.m. - 9:00 p.m.
+Naveen Jindal School of Management (JSOM) — Tradecraft Coffee & Tea Bar — 11:00 a.m. - 2:00 p.m.
+Parking Structure 3 (PS3) — Einstein Bros Bagels **  [Boost mobile orders available.] — 7:30 a.m. - 4:00 p.m.
+Parking Structure 3 (PS3) — Taco Bell Cantina ***  [Delivery robot orders available.] — 9:00 a.m. - 12:00 a.m.
+Sciences Building (SCI) — The Market — 9:00 a.m. - 3:00 p.m.
+Student Union (SU) — Buffalo Wild Wings — 11:00 a.m. - 6:00 p.m.
+Student Union (SU) — Chick-Fil-A — 8:00 a.m. - 6:00 p.m.
+Student Union (SU) — Crave — 11:00 a.m. - 8:00 p.m.
+Student Union (SU) — Firehouse Subs **  [Boost mobile orders available.] — 11:00 a.m. - 3:00 p.m.
+Student Union (SU) — Food Truck Park — 11:00 a.m. - 2:00 p.m.
+Student Union (SU) — Kalachandji’s Express — 11:00 a.m. - 8:00 p.m.
+Student Union (SU) — Panda Express **  [Boost mobile orders available.] — 11:00 a.m. - 6:00 p.m.
+Student Union (SU) — Starbucks ***  [Delivery robot orders available.] — 8:00 a.m. - 9:00 p.m.
+Student Union (SU) — Tea Co **  [Boost mobile orders available.] — 10:00 a.m. - 5:00 p.m.
+Student Union (SU) — The Halal Shack **  [Boost mobile orders available.] — 11:00 a.m. - 8:00 p.m.
+Visitor Center and University Bookstore (VCB) — Bookstore Coffee Shop — 8:00 a.m. - 2:00 p.m.
+
+==== MONDAY ====
+
+Andromeda Hall (RHA) — Comet Pi ** — 11:00 a.m. - 12:00 a.m.
+Andromeda Hall (RHA) — Dining Hall West ** — 11:00 a.m. - 3:00 p.m.
+Andromeda Hall (RHA) — The Market — 11:00 a.m. - 12:00 a.m.
+Engineering and Computer Science West (ECSW) — The Market — 10:00 a.m. - 3:00 p.m.
+Naveen Jindal School of Management (JSOM) — The Market — 8:00 a.m. - 9:00 p.m.
+Naveen Jindal School of Management (JSOM) — Tradecraft Coffee & Tea Bar — 11:00 a.m. - 2:00 p.m.
+Parking Structure 3 (PS3) — Einstein Bros Bagels ** — 7:30 a.m. - 4:00 p.m.
+Parking Structure 3 (PS3) — Taco Bell Cantina *** — 9:00 a.m. - 12:00 a.m.
+Sciences Building (SCI) — The Market — 9:00 a.m. - 3:00 p.m.
+Student Union (SU) — Buffalo Wild Wings — 11:00 a.m. - 6:00 p.m.
+Student Union (SU) — Chick-Fil-A — 8:00 a.m. - 6:00 p.m.
+Student Union (SU) — Crave — 11:00 a.m. - 8:00 p.m.
+Student Union (SU) — Firehouse Subs ** — 11:00 a.m. - 3:00 p.m.
+Student Union (SU) — Food Truck Park — 11:00 a.m. - 2:00 p.m.
+Student Union (SU) — Kalachandji’s Express — 11:00 a.m. - 8:00 p.m.
+Student Union (SU) — Panda Express ** — 11:00 a.m. - 6:00 p.m.
+Student Union (SU) — Starbucks *** — 8:00 a.m. - 9:00 p.m.
+Student Union (SU) — Tea Co ** — 10:00 a.m. - 5:00 p.m.
+Student Union (SU) — The Halal Shack ** — 11:00 a.m. - 8:00 p.m.
+Visitor Center and University Bookstore (VCB) — Bookstore Coffee Shop — 8:00 a.m. - 2:00 p.m.
+Andromeda Hall (RHA) — Comet Pi **  [Boost mobile orders available.] — 12:00 a.m. - 1:00 a.m.
+Andromeda Hall (RHA) — Dining Hall West **  [Boost mobile orders available.] — 7:00 a.m. - 10:00 a.m.
+Andromeda Hall (RHA) — The Market — 12:00 a.m. - 1:00 a.m.
+Engineering and Computer Science West (ECSW) — The Market — 10:00 a.m. - 3:00 p.m.
+Naveen Jindal School of Management (JSOM) — The Market — 8:00 a.m. - 9:00 p.m.
+Naveen Jindal School of Management (JSOM) — Tradecraft Coffee & Tea Bar — 11:00 a.m. - 2:00 p.m.
+Parking Structure 3 (PS3) — Einstein Bros Bagels **  [Boost mobile orders available.] — 7:30 a.m. - 4:00 p.m.
+Parking Structure 3 (PS3) — Taco Bell Cantina ***  [Delivery robot orders available.] — 9:00 a.m. - 12:00 a.m.
+Sciences Building (SCI) — The Market — 9:00 a.m. - 3:00 p.m.
+Student Union (SU) — Buffalo Wild Wings — 11:00 a.m. - 6:00 p.m.
+Student Union (SU) — Chick-Fil-A — 8:00 a.m. - 6:00 p.m.
+Student Union (SU) — Crave — 11:00 a.m. - 8:00 p.m.
+Student Union (SU) — Firehouse Subs **  [Boost mobile orders available.] — 11:00 a.m. - 3:00 p.m.
+Student Union (SU) — Food Truck Park — 11:00 a.m. - 2:00 p.m.
+Student Union (SU) — Kalachandji’s Express — 11:00 a.m. - 8:00 p.m.
+Student Union (SU) — Panda Express **  [Boost mobile orders available.] — 11:00 a.m. - 6:00 p.m.
+Student Union (SU) — Starbucks ***  [Delivery robot orders available.] — 8:00 a.m. - 9:00 p.m.
+Student Union (SU) — Tea Co **  [Boost mobile orders available.] — 10:00 a.m. - 5:00 p.m.
+Student Union (SU) — The Halal Shack **  [Boost mobile orders available.] — 11:00 a.m. - 8:00 p.m.
+Visitor Center and University Bookstore (VCB) — Bookstore Coffee Shop — 8:00 a.m. - 2:00 p.m.
+Andromeda Hall (RHA) — Comet Pi **  [Boost mobile orders available.] — 12:00 a.m. - 1:00 a.m.
+Andromeda Hall (RHA) — Dining Hall West **  [Boost mobile orders available.] — 7:00 a.m. - 10:00 a.m.
+Andromeda Hall (RHA) — The Market — 12:00 a.m. - 1:00 a.m.
+Engineering and Computer Science West (ECSW) — The Market — 10:00 a.m. - 3:00 p.m.
+Naveen Jindal School of Management (JSOM) — The Market — 8:00 a.m. - 9:00 p.m.
+Naveen Jindal School of Management (JSOM) — Tradecraft Coffee & Tea Bar — 11:00 a.m. - 2:00 p.m.
+Parking Structure 3 (PS3) — Einstein Bros Bagels **  [Boost mobile orders available.] — 7:30 a.m. - 4:00 p.m.
+Parking Structure 3 (PS3) — Taco Bell Cantina ***  [Delivery robot orders available.] — 9:00 a.m. - 12:00 a.m.
+Sciences Building (SCI) — The Market — 9:00 a.m. - 3:00 p.m.
+Student Union (SU) — Buffalo Wild Wings — 11:00 a.m. - 6:00 p.m.
+Student Union (SU) — Chick-Fil-A — 8:00 a.m. - 6:00 p.m.
+Student Union (SU) — Crave — 11:00 a.m. - 8:00 p.m.
+Student Union (SU) — Firehouse Subs **  [Boost mobile orders available.] — 11:00 a.m. - 3:00 p.m.
+Student Union (SU) — Food Truck Park — 11:00 a.m. - 2:00 p.m.
+Student Union (SU) — Kalachandji’s Express — 11:00 a.m. - 8:00 p.m.
+Student Union (SU) — Panda Express **  [Boost mobile orders available.] — 11:00 a.m. - 6:00 p.m.
+Student Union (SU) — Starbucks ***  [Delivery robot orders available.] — 8:00 a.m. - 9:00 p.m.
+Student Union (SU) — Tea Co **  [Boost mobile orders available.] — 10:00 a.m. - 5:00 p.m.
+Student Union (SU) — The Halal Shack **  [Boost mobile orders available.] — 11:00 a.m. - 8:00 p.m.
+Visitor Center and University Bookstore (VCB) — Bookstore Coffee Shop — 8:00 a.m. - 2:00 p.m.
+Andromeda Hall (RHA) — Comet Pi **  [Boost mobile orders available.] — 12:00 a.m. - 1:00 a.m.
+Andromeda Hall (RHA) — Dining Hall West **  [Boost mobile orders available.] — 7:00 a.m. - 10:00 a.m.
+Andromeda Hall (RHA) — The Market — 12:00 a.m. - 1:00 a.m.
+Engineering and Computer Science West (ECSW) — The Market — 10:00 a.m. - 3:00 p.m.
+Naveen Jindal School of Management (JSOM) — The Market — 8:00 a.m. - 9:00 p.m.
+Naveen Jindal School of Management (JSOM) — Tradecraft Coffee & Tea Bar — 11:00 a.m. - 2:00 p.m.
+Parking Structure 3 (PS3) — Einstein Bros Bagels **  [Boost mobile orders available.] — 7:30 a.m. - 4:00 p.m.
+Parking Structure 3 (PS3) — Taco Bell Cantina ***  [Delivery robot orders available.] — 9:00 a.m. - 12:00 a.m.
+Sciences Building (SCI) — The Market — 9:00 a.m. - 3:00 p.m.
+Student Union (SU) — Buffalo Wild Wings — 11:00 a.m. - 6:00 p.m.
+Student Union (SU) — Chick-Fil-A — 8:00 a.m. - 6:00 p.m.
+Student Union (SU) — Crave — 11:00 a.m. - 8:00 p.m.
+Student Union (SU) — Firehouse Subs **  [Boost mobile orders available.] — 11:00 a.m. - 3:00 p.m.
+Student Union (SU) — Food Truck Park — 11:00 a.m. - 2:00 p.m.
+Student Union (SU) — Kalachandji’s Express — 11:00 a.m. - 8:00 p.m.
+Student Union (SU) — Panda Express **  [Boost mobile orders available.] — 11:00 a.m. - 6:00 p.m.
+Student Union (SU) — Starbucks ***  [Delivery robot orders available.] — 8:00 a.m. - 9:00 p.m.
+Student Union (SU) — Tea Co **  [Boost mobile orders available.] — 10:00 a.m. - 5:00 p.m.
+Student Union (SU) — The Halal Shack **  [Boost mobile orders available.] — 11:00 a.m. - 8:00 p.m.
+Visitor Center and University Bookstore (VCB) — Bookstore Coffee Shop — 8:00 a.m. - 2:00 p.m.
+Andromeda Hall (RHA) — Comet Pi **  [Boost mobile orders available.] — 12:00 a.m. - 1:00 a.m.
+Andromeda Hall (RHA) — Dining Hall West **  [Boost mobile orders available.] — 7:00 a.m. - 10:00 a.m.
+Andromeda Hall (RHA) — The Market — 12:00 a.m. - 1:00 a.m.
+Naveen Jindal School of Management (JSOM) — The Market — 11:00 a.m. - 3:00 p.m.
+Parking Structure 3 (PS3) — Einstein Bros Bagels **  [Boost mobile orders available.] — 7:30 a.m. - 4:00 p.m.
+Parking Structure 3 (PS3) — Taco Bell Cantina ***  [Delivery robot orders available.] — 9:00 a.m. - 12:00 a.m.
+Sciences Building (SCI) — The Market — 9:00 a.m. - 2:00 p.m.
+Student Union (SU) — Buffalo Wild Wings — 11:00 a.m. - 4:00 p.m.
+Student Union (SU) — Chick-Fil-A — 8:00 a.m. - 5:00 p.m.
+Student Union (SU) — Crave — 11:00 a.m. - 5:00 p.m.
+Student Union (SU) — Firehouse Subs **  [Boost mobile orders available.] — 11:00 a.m. - 2:00 p.m.
+Student Union (SU) — Kalachandji’s Express — 11:00 a.m. - 3:00 p.m.
+Student Union (SU) — Panda Express **  [Boost mobile orders available.] — 11:00 a.m. - 3:00 p.m.
+Student Union (SU) — Starbucks ***  [Delivery robot orders available.] — 8:00 a.m. - 7:00 p.m.
+Student Union (SU) — Tea Co **  [Boost mobile orders available.] — 10:00 a.m. - 3:00 p.m.
+Student Union (SU) — The Halal Shack **  [Boost mobile orders available.] — 11:00 a.m. - 3:00 p.m.
+Visitor Center and University Bookstore (VCB) — Bookstore Coffee Shop — 8:00 a.m. - 2:00 p.m.
+Andromeda Hall (RHA) — Comet Pi **  [Boost mobile orders available.] — 3:00 p.m. - 10:00 p.m.
+Andromeda Hall (RHA) — Dining Hall West **  [Boost mobile orders available.] — 10:30 a.m. - 3:00 p.m.
+Andromeda Hall (RHA) — The Market — 3:00 p.m. - 10:00 p.m.
+Andromeda Hall (RHA) — Taco Bell Cantina ***  [Delivery robot orders available.] — 11:00 a.m. - 7:00 p.m.
+Andromeda Hall (RHA) — Chick-Fil-A — 11:00 a.m. - 3:00 p.m.
+Andromeda Hall (RHA) — Starbucks ***  [Delivery robot orders available.] — 10:00 a.m. - 3:00 p.m.
+Andromeda Hall (RHA) — Comet Pi **  [Boost mobile orders available.] — 3:00 p.m. - 10:00 p.m.
+Andromeda Hall (RHA) — Dining Hall West **  [Boost mobile orders available.] — 10:30 a.m. - 3:00 p.m.
+Andromeda Hall (RHA) — The Market — 3:00 p.m. - 10:00 p.m.
+Andromeda Hall (RHA) — Taco Bell Cantina ***  [Delivery robot orders available.] — 11:00 a.m. - 12:00 a.m.
+Andromeda Hall (RHA) — Starbucks ***  [Delivery robot orders available.] — 10:00 a.m. - 3:00 p.m.
+Andromeda Hall (RHA) — Comet Pi **  [Boost mobile orders available.] — 11:00 a.m. - 12:00 a.m.
+Andromeda Hall (RHA) — Dining Hall West **  [Boost mobile orders available.] — 7:00 a.m. - 10:00 a.m.
+Andromeda Hall (RHA) — The Market — 11:00 a.m. - 12:00 a.m.
+Engineering and Computer Science West (ECSW) — The Market — 10:00 a.m. - 3:00 p.m.
+Naveen Jindal School of Management (JSOM) — The Market — 8:00 a.m. - 9:00 p.m.
+Naveen Jindal School of Management (JSOM) — Tradecraft Coffee & Tea Bar — 11:00 a.m. - 2:00 p.m.
+Parking Structure 3 (PS3) — Einstein Bros Bagels **  [Boost mobile orders available.] — 7:30 a.m. - 4:00 p.m.
+Parking Structure 3 (PS3) — Taco Bell Cantina ***  [Delivery robot orders available.] — 9:00 a.m. - 12:00 a.m.
+Sciences Building (SCI) — The Market — 9:00 a.m. - 3:00 p.m.
+Student Union (SU) — Buffalo Wild Wings — 11:00 a.m. - 6:00 p.m.
+Student Union (SU) — Chick-Fil-A — 8:00 a.m. - 6:00 p.m.
+Student Union (SU) — Crave — 11:00 a.m. - 8:00 p.m.
+Student Union (SU) — Firehouse Subs **  [Boost mobile orders available.] — 11:00 a.m. - 3:00 p.m.
+Student Union (SU) — Food Truck Park — 11:00 a.m. - 2:00 p.m.
+Student Union (SU) — Kalachandji’s Express — 11:00 a.m. - 8:00 p.m.
+Student Union (SU) — Panda Express **  [Boost mobile orders available.] — 11:00 a.m. - 6:00 p.m.
+Student Union (SU) — Starbucks ***  [Delivery robot orders available.] — 8:00 a.m. - 9:00 p.m.
+Student Union (SU) — Tea Co **  [Boost mobile orders available.] — 10:00 a.m. - 5:00 p.m.
+Student Union (SU) — The Halal Shack **  [Boost mobile orders available.] — 11:00 a.m. - 8:00 p.m.
+Visitor Center and University Bookstore (VCB) — Bookstore Coffee Shop — 8:00 a.m. - 2:00 p.m.
